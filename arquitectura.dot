@@ -1,0 +1,38 @@
+digraph G {
+  rankdir=TB; compound=true; nodesep=0.3; ranksep=0.5; fontname="Helvetica"; bgcolor="white"; pad=0.25;
+  node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=11, margin="0.14,0.08", color="#444455"];
+  edge [fontname="Helvetica", fontsize=9, color="#555566"];
+
+  subgraph cluster_f { label="1. Fuentes de datos (simuladas)"; style="rounded,filled"; fillcolor="#EEF3F8"; color="#99AABB";
+    csv [label="Tablas CSV\nempleados · habilidades ·\ncertificaciones · proyectos ·\nincidentes · capacitaciones", fillcolor="#FFFFFF"];
+    docs [label="documentos.json\n168 documentos\n(CV, certificados, informes,\ntickets, minutas, manuales)", fillcolor="#FFFFFF"];
+    onto [label="Ontología (ontology.py)\n15 habilidades · 25 tecnologías\n17 certificaciones · 24 cursos", fillcolor="#FFFFFF"];
+  }
+  subgraph cluster_p { label="2. Procesamiento (Python)"; style="rounded,filled"; fillcolor="#FFF6E5"; color="#CC99AA";
+    nlp [label="NLP: normalización y NER\nguiado por la ontología\n(sinónimos → nombre canónico, R6)", fillcolor="#FFFFFF"];
+    clf [label="Clasificador de documentos\nTF-IDF + Regresión Logística\n(scikit-learn)", fillcolor="#FFFFFF"];
+    emb [label="Fragmentación + embeddings\nLSA (TF-IDF + SVD)\nsimilitud coseno", fillcolor="#FFFFFF"];
+    kgb [label="Construcción del grafo\n(NetworkX) y reglas R1–R5", fillcolor="#FFFFFF"];
+  }
+  subgraph cluster_r { label="3. Repositorio de conocimiento"; style="rounded,filled"; fillcolor="#E8F5EF"; color="#77BB99";
+    grafo [label="Grafo de conocimiento\n335 nodos · 1277 relaciones", fillcolor="#009E73", fontcolor="white"];
+    idx [label="Índice vectorial\n223 fragmentos ·\n168 documentos", fillcolor="#009E73", fontcolor="white"];
+  }
+  subgraph cluster_m { label="4. Módulos inteligentes"; style="rounded,filled"; fillcolor="#EAF3FB"; color="#7799BB";
+    bus [label="Buscador y ranking\nde especialistas\n(puntaje por evidencia)", fillcolor="#0072B2", fontcolor="white"];
+    rec [label="Recomendador\ndocumentos relacionados y\ncapacitación", fillcolor="#0072B2", fontcolor="white"];
+    rag [label="Asistente conversacional RAG\nrecuperar → redactar con citas\n→ abstenerse sin evidencia", fillcolor="#0072B2", fontcolor="white"];
+    viz [label="Visualización del grafo\n(pyvis, interactivo)", fillcolor="#0072B2", fontcolor="white"];
+  }
+  ui [label="5. Interfaz Streamlit\nResumen · Especialistas · Documentos ·\nRecomendaciones · Asistente · Grafo · Evaluación", fillcolor="#D55E00", fontcolor="white"];
+  usr [label="Usuarios\nRR. HH. · Líderes de proyecto ·\nSoporte · Colaboradores · Dirección", shape=ellipse, style=filled, fillcolor="#F7F7F7"];
+  dep [label="Despliegue\nGitHub → Streamlit Community Cloud", shape=note, style=filled, fillcolor="#FFFFFF"];
+
+  csv -> nlp; docs -> nlp; docs -> clf; onto -> nlp; onto -> kgb;
+  nlp -> kgb; nlp -> emb; clf -> kgb [label="categoría"]; csv -> kgb;
+  kgb -> grafo; emb -> idx; docs -> emb;
+  grafo -> bus; grafo -> rec; grafo -> rag; grafo -> viz; idx -> rec; idx -> rag; idx -> bus [style=dashed, label="interpretación\nsemántica"];
+  bus -> ui; rec -> ui; rag -> ui; viz -> ui; ui -> usr; usr -> ui [label="consultas"];
+  ui -> clf [style=dashed, color="#D55E00", fontcolor="#D55E00", label="documento nuevo\n+ confirmación / corrección"];
+  ui -> dep [style=dotted, arrowhead=none];
+}

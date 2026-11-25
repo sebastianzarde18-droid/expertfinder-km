@@ -1,0 +1,14 @@
+digraph F {
+  rankdir=LR; nodesep=0.3; ranksep=0.45; fontname="Helvetica"; pad=0.25; bgcolor="white";
+  node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=11, margin="0.15,0.1", color="#333333"];
+  edge [color="#555566", penwidth=1.4];
+  p0 [label="1. Carga\nArchivo .txt/.pdf\no texto pegado", fillcolor="#BBBBBB", fontcolor="#000000"];
+  p1 [label="2. Clasificación\nTF-IDF + Reg. Logística\ncategoría y probabilidades", fillcolor="#0072B2", fontcolor="#ffffff"];
+  p2 [label="3. Extracción NLP\nEntidades normalizadas\n(habilidades, técnologías,\ncertificaciones, personas…)", fillcolor="#0072B2", fontcolor="#ffffff"];
+  p3 [label="4. Propuestas\nRelaciones «propuesto»\n(tiene_habilidad, posee,\nparticipó_en, resolvió…)", fillcolor="#E69F00", fontcolor="#000000"];
+  p4 [label="5. Validación humana\nConfirmar / corregir\ncategoría y relaciones\n(RR. HH. o colaborador)", fillcolor="#D55E00", fontcolor="#ffffff"];
+  p5 [label="6. Actualización\nGrafo + índice vectorial\n+ reentrenamiento", fillcolor="#009E73", fontcolor="#ffffff"];
+  p6 [label="7. Uso\nBúsqueda · Recomendación ·\nAsistente · Visualización", fillcolor="#009E73", fontcolor="#ffffff"];
+  p0 -> p1 -> p2 -> p3 -> p4 -> p5 -> p6;
+  p4 -> p1 [style=dashed, color="#D55E00", constraint=false, label="corrección →\nreentrena", fontname="Helvetica", fontsize=9, fontcolor="#D55E00"];
+}
