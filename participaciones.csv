@@ -1,0 +1,91 @@
+empleado,proyecto,rol,inicio,fin
+EMP-007,P01,líder de proyecto,2024-09-02,2025-04-30
+EMP-001,P01,desarrollador backend,2024-09-02,2025-04-30
+EMP-003,P01,analista de datos,2024-09-02,2025-04-30
+EMP-006,P01,ingeniero DevOps,2024-09-02,2025-04-30
+EMP-016,P01,desarrollador backend,2024-09-02,2025-04-30
+EMP-018,P01,especialista de datos,2024-09-02,2025-04-30
+EMP-022,P01,ingeniero DevOps,2024-09-02,2025-04-30
+EMP-027,P01,desarrollador backend,2024-09-02,2025-04-30
+EMP-017,P02,líder de proyecto,2024-11-04,2025-06-02
+EMP-005,P02,desarrollador full stack,2024-11-04,2025-06-02
+EMP-006,P02,ingeniero DevOps,2024-11-04,2025-06-02
+EMP-011,P02,diseñador de interfaces,2024-11-04,2025-06-02
+EMP-014,P02,arquitecto cloud,2024-11-04,2025-06-02
+EMP-019,P02,desarrollador full stack,2024-11-04,2025-06-02
+EMP-029,P02,diseñador de interfaces,2024-11-04,2025-06-02
+EMP-030,P02,desarrollador full stack,2024-11-04,2025-06-02
+EMP-025,P03,líder de proyecto,2025-01-13,2025-06-12
+EMP-001,P03,desarrollador backend,2025-01-13,2025-06-12
+EMP-002,P03,especialista de datos,2025-01-13,2025-06-12
+EMP-003,P03,analista de datos,2025-01-13,2025-06-12
+EMP-004,P03,científico de datos,2025-01-13,2025-06-12
+EMP-010,P03,desarrollador backend,2025-01-13,2025-06-12
+EMP-015,P03,analista de datos,2025-01-13,2025-06-12
+EMP-016,P03,desarrollador backend,2025-01-13,2025-06-12
+EMP-027,P03,desarrollador backend,2025-01-13,2025-06-12
+EMP-007,P04,líder de proyecto,2025-02-03,2025-10-31
+EMP-006,P04,ingeniero DevOps,2025-02-03,2025-10-31
+EMP-014,P04,arquitecto cloud,2025-02-03,2025-10-31
+EMP-022,P04,ingeniero DevOps,2025-02-03,2025-10-31
+EMP-017,P05,líder de proyecto,2025-03-10,2025-11-05
+EMP-002,P05,especialista de datos,2025-03-10,2025-11-05
+EMP-010,P05,desarrollador backend,2025-03-10,2025-11-05
+EMP-018,P05,especialista de datos,2025-03-10,2025-11-05
+EMP-020,P05,desarrollador backend,2025-03-10,2025-11-05
+EMP-025,P06,líder de proyecto,2025-04-07,2025-10-04
+EMP-011,P06,diseñador de interfaces,2025-04-07,2025-10-04
+EMP-013,P06,analista de soporte,2025-04-07,2025-10-04
+EMP-018,P06,especialista de datos,2025-04-07,2025-10-04
+EMP-019,P06,desarrollador full stack,2025-04-07,2025-10-04
+EMP-024,P06,analista de soporte,2025-04-07,2025-10-04
+EMP-029,P06,diseñador de interfaces,2025-04-07,2025-10-04
+EMP-030,P06,desarrollador full stack,2025-04-07,2025-10-04
+EMP-007,P07,líder de proyecto,2025-05-05,2025-12-01
+EMP-003,P07,analista de datos,2025-05-05,2025-12-01
+EMP-009,P07,ingeniero de calidad,2025-05-05,2025-12-01
+EMP-010,P07,desarrollador backend,2025-05-05,2025-12-01
+EMP-016,P07,desarrollador backend,2025-05-05,2025-12-01
+EMP-018,P07,especialista de datos,2025-05-05,2025-12-01
+EMP-021,P07,ingeniero de calidad,2025-05-05,2025-12-01
+EMP-027,P07,desarrollador backend,2025-05-05,2025-12-01
+EMP-017,P08,líder de proyecto,2025-06-16,2025-12-13
+EMP-004,P08,científico de datos,2025-06-16,2025-12-13
+EMP-023,P08,científico de datos,2025-06-16,2025-12-13
+EMP-025,P09,líder de proyecto,2025-08-04,2026-01-01
+EMP-008,P09,analista de seguridad,2025-08-04,2026-01-01
+EMP-012,P09,ingeniero de redes,2025-08-04,2026-01-01
+EMP-013,P09,analista de soporte,2025-08-04,2026-01-01
+EMP-024,P09,analista de soporte,2025-08-04,2026-01-01
+EMP-026,P09,analista de seguridad,2025-08-04,2026-01-01
+EMP-028,P09,ingeniero de redes,2025-08-04,2026-01-01
+EMP-007,P10,líder de proyecto,2025-09-01,2026-04-29
+EMP-002,P10,especialista de datos,2025-09-01,2026-04-29
+EMP-005,P10,desarrollador full stack,2025-09-01,2026-04-29
+EMP-010,P10,desarrollador backend,2025-09-01,2026-04-29
+EMP-011,P10,diseñador de interfaces,2025-09-01,2026-04-29
+EMP-014,P10,arquitecto cloud,2025-09-01,2026-04-29
+EMP-016,P10,desarrollador backend,2025-09-01,2026-04-29
+EMP-018,P10,especialista de datos,2025-09-01,2026-04-29
+EMP-027,P10,desarrollador backend,2025-09-01,2026-04-29
+EMP-029,P10,diseñador de interfaces,2025-09-01,2026-04-29
+EMP-030,P10,desarrollador full stack,2025-09-01,2026-04-29
+EMP-017,P11,líder de proyecto,2025-10-06,2026-07-03
+EMP-001,P11,desarrollador backend,2025-10-06,2026-07-03
+EMP-002,P11,especialista de datos,2025-10-06,2026-07-03
+EMP-003,P11,analista de datos,2025-10-06,2026-07-03
+EMP-009,P11,ingeniero de calidad,2025-10-06,2026-07-03
+EMP-010,P11,desarrollador backend,2025-10-06,2026-07-03
+EMP-016,P11,desarrollador backend,2025-10-06,2026-07-03
+EMP-020,P11,desarrollador backend,2025-10-06,2026-07-03
+EMP-021,P11,ingeniero de calidad,2025-10-06,2026-07-03
+EMP-027,P11,desarrollador backend,2025-10-06,2026-07-03
+EMP-025,P12,líder de proyecto,2025-11-03,2026-05-02
+EMP-001,P12,desarrollador backend,2025-11-03,2026-05-02
+EMP-005,P12,desarrollador full stack,2025-11-03,2026-05-02
+EMP-013,P12,analista de soporte,2025-11-03,2026-05-02
+EMP-018,P12,especialista de datos,2025-11-03,2026-05-02
+EMP-024,P12,analista de soporte,2025-11-03,2026-05-02
+EMP-027,P12,desarrollador backend,2025-11-03,2026-05-02
+EMP-029,P12,diseñador de interfaces,2025-11-03,2026-05-02
+EMP-030,P12,desarrollador full stack,2025-11-03,2026-05-02

@@ -1,0 +1,256 @@
+{
+ "habilidades_reales": {
+  "EMP-001": [
+   "Bases de datos",
+   "Python"
+  ],
+  "EMP-002": [
+   "Bases de datos"
+  ],
+  "EMP-003": [
+   "Análisis de datos",
+   "Bases de datos"
+  ],
+  "EMP-004": [
+   "Bases de datos",
+   "Machine Learning",
+   "Python"
+  ],
+  "EMP-005": [
+   "Diseño UX/UI",
+   "JavaScript"
+  ],
+  "EMP-006": [
+   "Computación en la nube",
+   "DevOps"
+  ],
+  "EMP-007": [
+   "Gestión de proyectos",
+   "Metodologías ágiles"
+  ],
+  "EMP-008": [
+   "Ciberseguridad",
+   "Redes"
+  ],
+  "EMP-009": [
+   "Metodologías ágiles",
+   "Pruebas de software"
+  ],
+  "EMP-010": [
+   "Bases de datos",
+   "Java"
+  ],
+  "EMP-011": [
+   "Diseño UX/UI",
+   "JavaScript"
+  ],
+  "EMP-012": [
+   "Ciberseguridad",
+   "Redes"
+  ],
+  "EMP-013": [
+   "Bases de datos",
+   "Redes",
+   "Soporte técnico"
+  ],
+  "EMP-014": [
+   "Computación en la nube",
+   "DevOps"
+  ],
+  "EMP-015": [
+   "Análisis de datos",
+   "Bases de datos"
+  ],
+  "EMP-016": [
+   "Bases de datos",
+   "Pruebas de software",
+   "Python"
+  ],
+  "EMP-017": [
+   "Gestión de proyectos",
+   "Metodologías ágiles"
+  ],
+  "EMP-018": [
+   "Bases de datos"
+  ],
+  "EMP-019": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "JavaScript"
+  ],
+  "EMP-020": [
+   "Bases de datos",
+   "Java"
+  ],
+  "EMP-021": [
+   "Metodologías ágiles",
+   "Pruebas de software"
+  ],
+  "EMP-022": [
+   "DevOps"
+  ],
+  "EMP-023": [
+   "Análisis de datos",
+   "Bases de datos",
+   "Machine Learning",
+   "Python"
+  ],
+  "EMP-024": [
+   "Bases de datos",
+   "Redes",
+   "Soporte técnico"
+  ],
+  "EMP-025": [
+   "Análisis de datos",
+   "Gestión de proyectos",
+   "Metodologías ágiles"
+  ],
+  "EMP-026": [
+   "Ciberseguridad",
+   "Redes"
+  ],
+  "EMP-027": [
+   "Bases de datos",
+   "Python"
+  ],
+  "EMP-028": [
+   "Redes"
+  ],
+  "EMP-029": [
+   "Diseño UX/UI"
+  ],
+  "EMP-030": [
+   "Bases de datos",
+   "JavaScript"
+  ]
+ },
+ "tecnologias_empleado": {
+  "EMP-001": [
+   "Django",
+   "FastAPI",
+   "PostgreSQL"
+  ],
+  "EMP-002": [
+   "PostgreSQL",
+   "Oracle Database"
+  ],
+  "EMP-003": [
+   "Power BI",
+   "Tableau",
+   "PostgreSQL"
+  ],
+  "EMP-004": [
+   "pandas",
+   "scikit-learn"
+  ],
+  "EMP-005": [
+   "MySQL",
+   "React"
+  ],
+  "EMP-006": [
+   "AWS",
+   "Jenkins",
+   "Docker"
+  ],
+  "EMP-007": [
+   "Jira"
+  ],
+  "EMP-008": [
+   "Wireshark",
+   "Splunk"
+  ],
+  "EMP-009": [
+   "Jira",
+   "Selenium"
+  ],
+  "EMP-010": [
+   "PostgreSQL",
+   "Spring Boot"
+  ],
+  "EMP-011": [
+   "Figma",
+   "React"
+  ],
+  "EMP-012": [
+   "Cisco IOS",
+   "Wireshark"
+  ],
+  "EMP-013": [
+   "Wireshark",
+   "MySQL"
+  ],
+  "EMP-014": [
+   "Kubernetes",
+   "Azure",
+   "AWS"
+  ],
+  "EMP-015": [
+   "pandas",
+   "Power BI",
+   "Tableau"
+  ],
+  "EMP-016": [
+   "PostgreSQL",
+   "Django",
+   "FastAPI"
+  ],
+  "EMP-017": [
+   "Jira"
+  ],
+  "EMP-018": [
+   "Oracle Database",
+   "PostgreSQL",
+   "MySQL"
+  ],
+  "EMP-019": [
+   "MongoDB",
+   "React"
+  ],
+  "EMP-020": [
+   "Oracle Database",
+   "Spring Boot"
+  ],
+  "EMP-021": [
+   "Jira",
+   "Selenium"
+  ],
+  "EMP-022": [
+   "Kubernetes",
+   "Docker",
+   "Jenkins"
+  ],
+  "EMP-023": [
+   "scikit-learn",
+   "TensorFlow"
+  ],
+  "EMP-024": [
+   "MySQL",
+   "Wireshark"
+  ],
+  "EMP-025": [
+   "Jira",
+   "Power BI"
+  ],
+  "EMP-026": [
+   "Wireshark",
+   "Splunk"
+  ],
+  "EMP-027": [
+   "FastAPI",
+   "Django",
+   "PostgreSQL"
+  ],
+  "EMP-028": [
+   "Cisco IOS",
+   "Wireshark"
+  ],
+  "EMP-029": [
+   "Figma",
+   "React"
+  ],
+  "EMP-030": [
+   "MySQL",
+   "React"
+  ]
+ }
+}

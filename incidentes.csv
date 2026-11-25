@@ -1,0 +1,19 @@
+id,proyecto,tecnologia,severidad,sintoma,causa,solucion,horas,fecha,responsable
+INC-0457,P01,PostgreSQL,alta,Caída de BD: la aplicación no responde y se agotan las conexiones,saturación de conexiones,reconfiguración y ajuste de índices,3,2025-03-18,EMP-002
+INC-0473,P03,PostgreSQL,alta,Consultas lentas en horario pico,consultas sin índice y bloqueos prolongados,creación de índices y reescritura de consultas,4,2025-03-21,EMP-016
+INC-0505,P04,Kubernetes,media,Pods en estado CrashLoopBackOff tras el despliegue,variable de entorno faltante en el manifiesto,corrección del manifiesto y nuevo despliegue,3,2025-03-23,EMP-022
+INC-0542,P05,Spring Boot,media,Servicio devuelve error 500 en el módulo de inventario,excepción no controlada al consultar datos nulos,validación de datos y manejo de excepciones,3,2025-06-05,EMP-010
+INC-0573,P01,PostgreSQL,baja,Consultas lentas en horario pico,consultas sin índice y bloqueos prolongados,creación de índices y reescritura de consultas,4,2024-11-02,EMP-018
+INC-0608,P12,MySQL,baja,Transacciones fallan con deadlock,orden inconsistente de actualizaciones,reordenamiento de transacciones y reintentos controlados,5,2026-04-20,EMP-018
+INC-0631,P02,AWS,media,Usuarios sin acceso a archivos en el almacenamiento,permisos incorrectos en el bucket S3,corrección de la política de acceso del bucket,2,2025-05-07,EMP-014
+INC-0645,P11,Spring Boot,baja,Servicio devuelve error 500 en el módulo de inventario,excepción no controlada al consultar datos nulos,validación de datos y manejo de excepciones,3,2026-03-05,EMP-010
+INC-0670,P11,PostgreSQL,media,Caída de BD: la aplicación no responde y se agotan las conexiones,saturación de conexiones,reconfiguración del pool de conexiones y ajuste de índices,3,2026-02-17,EMP-016
+INC-0699,P06,Node.js,media,Servicio se detiene por consumo de memoria,fuga de memoria en un manejador de eventos,corrección del manejador y reinicio programado,6,2025-09-10,EMP-030
+INC-0731,P11,PostgreSQL,media,Disco al 100% en el servidor de base de datos,acumulación de archivos WAL,limpieza de WAL y configuración de archivado,2,2025-11-27,EMP-001
+INC-0766,P05,Oracle Database,baja,Error ORA-01653 al insertar registros,tablespace lleno,ampliación del tablespace y monitoreo de espacio,2,2025-04-09,EMP-018
+INC-0800,P07,Django,baja,Migración falla al desplegar nueva versión,conflicto entre migraciones paralelas,fusión de migraciones y despliegue controlado,2,2025-11-11,EMP-027
+INC-0834,P09,Splunk,alta,Alertas de múltiples intentos de acceso fallidos,intento de acceso por fuerza bruta,"bloqueo de direcciones, rotación de credenciales y regla de alerta",4,2025-09-18,EMP-026
+INC-0844,P02,Node.js,media,Servicio se detiene por consumo de memoria,fuga de memoria en un manejador de eventos,corrección del manejador y reinicio programado,6,2025-05-18,EMP-019
+INC-0876,P07,PostgreSQL,media,Consultas lentas en horario pico,consultas sin índice y bloqueos prolongados,creación de índices y reescritura de consultas,4,2025-10-23,EMP-016
+INC-0911,P02,MongoDB,alta,Latencia alta en consultas de catálogo,falta de índices compuestos,creación de índices compuestos,3,2025-02-10,EMP-019
+INC-0942,P05,Oracle Database,baja,Degradación de rendimiento en reportes nocturnos,estadísticas desactualizadas,recolección de estadísticas y plan de ejecución fijo,3,2025-08-24,EMP-018

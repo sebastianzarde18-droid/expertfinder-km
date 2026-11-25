@@ -1,0 +1,64 @@
+empleado,habilidad,nivel,anios
+EMP-001,Python,4,7
+EMP-001,Bases de datos,3,2
+EMP-002,Bases de datos,5,4
+EMP-003,Análisis de datos,4,3
+EMP-003,Bases de datos,4,6
+EMP-004,Machine Learning,4,4
+EMP-004,Python,5,6
+EMP-004,Bases de datos,3,2
+EMP-005,JavaScript,5,7
+EMP-005,Diseño UX/UI,4,6
+EMP-006,DevOps,5,5
+EMP-006,Computación en la nube,2,2
+EMP-007,Gestión de proyectos,4,4
+EMP-007,Metodologías ágiles,4,6
+EMP-008,Ciberseguridad,4,3
+EMP-008,Redes,3,4
+EMP-009,Pruebas de software,3,3
+EMP-009,Metodologías ágiles,5,6
+EMP-010,Java,3,5
+EMP-010,Bases de datos,3,3
+EMP-011,Diseño UX/UI,3,2
+EMP-011,JavaScript,3,3
+EMP-012,Redes,3,3
+EMP-012,Ciberseguridad,3,5
+EMP-013,Soporte técnico,5,8
+EMP-013,Redes,2,2
+EMP-013,Bases de datos,4,3
+EMP-014,Computación en la nube,4,5
+EMP-014,DevOps,3,3
+EMP-015,Análisis de datos,3,3
+EMP-015,Bases de datos,4,5
+EMP-016,Python,5,6
+EMP-016,Bases de datos,2,1
+EMP-016,Pruebas de software,3,2
+EMP-017,Gestión de proyectos,4,4
+EMP-017,Metodologías ágiles,3,2
+EMP-018,Bases de datos,5,5
+EMP-019,JavaScript,4,5
+EMP-019,Bases de datos,4,3
+EMP-019,Diseño UX/UI,4,3
+EMP-020,Java,3,3
+EMP-020,Bases de datos,4,5
+EMP-021,Pruebas de software,3,5
+EMP-021,Metodologías ágiles,4,4
+EMP-022,DevOps,3,4
+EMP-023,Machine Learning,4,7
+EMP-023,Python,3,3
+EMP-023,Análisis de datos,4,3
+EMP-023,Bases de datos,2,4
+EMP-024,Soporte técnico,5,5
+EMP-024,Redes,3,4
+EMP-024,Bases de datos,3,4
+EMP-025,Gestión de proyectos,5,6
+EMP-025,Análisis de datos,4,6
+EMP-025,Metodologías ágiles,3,5
+EMP-026,Ciberseguridad,4,3
+EMP-026,Redes,3,4
+EMP-027,Python,5,5
+EMP-027,Bases de datos,2,1
+EMP-028,Redes,5,5
+EMP-029,Diseño UX/UI,3,5
+EMP-030,JavaScript,5,4
+EMP-030,Bases de datos,3,4
