@@ -1,0 +1,4 @@
+caso,objetivo_detectado,recomendados,esperados,hit_at_5,P_at_5,NDCG_at_5,sin_repetidos
+Perfil de Daniel: Python básico y SQL; objetivo: especializarse en análisis de datos,Análisis de datos,Pandas para análisis de datos | Visualización con Power BI | Proyecto práctico de análisis de datos | Estadística aplicada a datos | SQL desde Cero,"K06, K07, K08",0.667,0.4,0.704,True
+Perfil de redes (nivel 3) que quiere aprender nube y DevOps,"Computación en la nube, DevOps",Fundamentos de Azure | Fundamentos de AWS | Docker y contenedores | CI/CD con Jenkins | Preparación para CCNA,"K10, K12, K13",1.0,0.6,1.0,True
+"Ana Torres (Python 4, BD 3) que quiere aprender Machine Learning",Machine Learning,Introducción a Machine Learning | Estadística aplicada a datos | Administración de PostgreSQL | Curso SQL Avanzado | Pandas para análisis de datos,"K07, K24",1.0,0.4,1.0,True

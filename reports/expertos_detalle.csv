@@ -1,0 +1,13 @@
+consulta,interpretado,verdad,devueltos,P_at_3,cobertura_R10,pct_top3_cumple_todos,ms
+Necesitamos una persona con experiencia en Python y bases de datos,"Bases de datos, Python",5,10,1.0,0.8,1.0,3.74
+alguien que domine py y BD,"Python, Bases de datos",5,10,1.0,0.8,1.0,1.74
+especialista en Postgres,Bases de datos,7,10,1.0,1.0,1.0,1.83
+experto en la nube,Computación en la nube,2,7,0.667,1.0,1.0,1.94
+DevOps y nube,"DevOps, Computación en la nube",2,8,0.667,1.0,0.667,1.77
+persona de ciberseguridad,Ciberseguridad,3,3,1.0,1.0,1.0,1.69
+análisis de datos con Python,"Análisis de datos, Python",1,10,0.0,1.0,0.667,2.0
+machine learning,Machine Learning,2,3,0.667,1.0,1.0,1.59
+gestión de proyectos y scrum,"Gestión de proyectos, Metodologías ágiles",3,5,1.0,1.0,1.0,1.98
+experiencia en k8s,DevOps,2,4,0.667,1.0,1.0,1.44
+desarrollo en JavaScript,JavaScript,4,7,1.0,1.0,1.0,1.83
+alguien de pruebas QA,Pruebas de software,3,3,1.0,1.0,1.0,1.6

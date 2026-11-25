@@ -1,0 +1,192 @@
+{
+ "sistema": {
+  "nodos": 335,
+  "relaciones": 1277,
+  "documentos": 168,
+  "empleados": 30,
+  "tiempo_carga_s": 0.39,
+  "embeddings": "LSA (TF-IDF + SVD)",
+  "fragmentos": 223
+ },
+ "clasificacion": {
+  "n_documentos": 168,
+  "cv_accuracy": 0.9881,
+  "cv_precision_macro": 0.9859,
+  "cv_recall_macro": 0.9667,
+  "cv_f1_macro": 0.9742,
+  "holdout_test": 42,
+  "holdout_precision_macro": 0.9667,
+  "holdout_recall_macro": 0.9444,
+  "holdout_f1_macro": 0.9481,
+  "errores": [
+   {
+    "titulo": "Procedimiento de atención y escalamiento de incidentes",
+    "real": "Manual o política interna",
+    "predicha": "Ticket de incidente"
+   },
+   {
+    "titulo": "Catálogo de niveles de habilidad",
+    "real": "Manual o política interna",
+    "predicha": "CV o perfil profesional"
+   }
+  ],
+  "comparacion": [
+   {
+    "modelo": "logreg",
+    "accuracy": 0.9881,
+    "precision_macro": 0.9859,
+    "recall_macro": 0.9667,
+    "f1_macro": 0.9742
+   },
+   {
+    "modelo": "svm",
+    "accuracy": 0.9881,
+    "precision_macro": 0.9859,
+    "recall_macro": 0.9667,
+    "f1_macro": 0.9742
+   },
+   {
+    "modelo": "naive_bayes",
+    "accuracy": 0.9821,
+    "precision_macro": 0.973,
+    "recall_macro": 0.95,
+    "f1_macro": 0.9567
+   }
+  ]
+ },
+ "recuperacion": {
+  "resumen": {
+   "Palabras clave (exacta)": {
+    "P_at_5": 0.7375,
+    "P_at_10": 0.6438,
+    "R_at_10": 0.434,
+    "R_precision": 0.434
+   },
+   "Semántica LSA": {
+    "P_at_5": 0.775,
+    "P_at_10": 0.6875,
+    "R_at_10": 0.4676,
+    "R_precision": 0.4676
+   },
+   "Semántica + ontología": {
+    "P_at_5": 1.0,
+    "P_at_10": 0.9188,
+    "R_at_10": 0.6673,
+    "R_precision": 0.6603
+   },
+   "Híbrida + ontología": {
+    "P_at_5": 1.0,
+    "P_at_10": 0.9125,
+    "R_at_10": 0.6616,
+    "R_precision": 0.6616
+   }
+  },
+  "por_tipo": {
+   "literal|Híbrida + ontología": {
+    "P_at_5": 1.0,
+    "R_at_10": 0.686
+   },
+   "literal|Palabras clave (exacta)": {
+    "P_at_5": 1.0,
+    "R_at_10": 0.579
+   },
+   "literal|Semántica + ontología": {
+    "P_at_5": 1.0,
+    "R_at_10": 0.698
+   },
+   "literal|Semántica LSA": {
+    "P_at_5": 1.0,
+    "R_at_10": 0.634
+   },
+   "parafraseada|Híbrida + ontología": {
+    "P_at_5": 1.0,
+    "R_at_10": 0.637
+   },
+   "parafraseada|Palabras clave (exacta)": {
+    "P_at_5": 0.475,
+    "R_at_10": 0.289
+   },
+   "parafraseada|Semántica + ontología": {
+    "P_at_5": 1.0,
+    "R_at_10": 0.637
+   },
+   "parafraseada|Semántica LSA": {
+    "P_at_5": 0.55,
+    "R_at_10": 0.301
+   }
+  },
+  "n_consultas": 16
+ },
+ "expertos": {
+  "P_at_3": 0.8056,
+  "cobertura_R10": 0.9667,
+  "tiempo_ms_promedio": 1.93,
+  "tiempo_ms_max": 3.74,
+  "n_consultas": 12,
+  "consultas_sin_resultado": 0
+ },
+ "recomendacion": {
+  "docs_P_at_3": 0.85,
+  "docs_similitud_media": 0.7067,
+  "docs_n": 20,
+  "cap_hit_at_5": 0.8889,
+  "cap_NDCG_at_5": 0.9013,
+  "cap_casos": 3,
+  "cap_detalle": [
+   {
+    "caso": "Perfil de Daniel: Python básico y SQL; objetivo: especializarse en análisis de datos",
+    "objetivo_detectado": "Análisis de datos",
+    "recomendados": "Pandas para análisis de datos | Visualización con Power BI | Proyecto práctico de análisis de datos | Estadística aplicada a datos | SQL desde Cero",
+    "esperados": "K06, K07, K08",
+    "hit_at_5": 0.667,
+    "P_at_5": 0.4,
+    "NDCG_at_5": 0.704,
+    "sin_repetidos": true
+   },
+   {
+    "caso": "Perfil de redes (nivel 3) que quiere aprender nube y DevOps",
+    "objetivo_detectado": "Computación en la nube, DevOps",
+    "recomendados": "Fundamentos de Azure | Fundamentos de AWS | Docker y contenedores | CI/CD con Jenkins | Preparación para CCNA",
+    "esperados": "K10, K12, K13",
+    "hit_at_5": 1.0,
+    "P_at_5": 0.6,
+    "NDCG_at_5": 1.0,
+    "sin_repetidos": true
+   },
+   {
+    "caso": "Ana Torres (Python 4, BD 3) que quiere aprender Machine Learning",
+    "objetivo_detectado": "Machine Learning",
+    "recomendados": "Introducción a Machine Learning | Estadística aplicada a datos | Administración de PostgreSQL | Curso SQL Avanzado | Pandas para análisis de datos",
+    "esperados": "K07, K24",
+    "hit_at_5": 1.0,
+    "P_at_5": 0.4,
+    "NDCG_at_5": 1.0,
+    "sin_repetidos": true
+   }
+  ]
+ },
+ "chatbot": {
+  "preguntas": 19,
+  "con_respuesta": 13,
+  "sin_respuesta": 6,
+  "exactitud_con_respuesta": 0.9231,
+  "fundamentacion": 0.9231,
+  "rechazo_correcto_sin_respuesta": 1.0,
+  "porcentaje_respuestas_correctas": 0.9474,
+  "falsos_rechazos": 1,
+  "respuestas_inventadas": 0,
+  "tiempo_ms_promedio": 7.0,
+  "modo": "Extractivo (sin LLM): respuesta compuesta con hechos y fragmentos citados",
+  "dev_mejor_config": {
+   "umbral_puntaje": 0.1,
+   "umbral_soporte": 0.4,
+   "aciertos": 8,
+   "de": 8
+  }
+ },
+ "pruebas_integradas": {
+  "total": 11,
+  "cumplen": 10
+ },
+ "tiempo_evaluacion_s": 3.0
+}

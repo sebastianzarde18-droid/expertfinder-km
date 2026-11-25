@@ -1,0 +1,26 @@
+id,tecnologia,habilidad,tipo
+PostgreSQL,PostgreSQL,Bases de datos,base de datos
+MySQL,MySQL,Bases de datos,base de datos
+Oracle Database,Oracle Database,Bases de datos,base de datos
+MongoDB,MongoDB,Bases de datos,base de datos
+Django,Django,Python,framework
+FastAPI,FastAPI,Python,framework
+pandas,pandas,Python,biblioteca
+React,React,JavaScript,framework
+Node.js,Node.js,JavaScript,plataforma
+Spring Boot,Spring Boot,Java,framework
+Power BI,Power BI,Análisis de datos,herramienta
+Tableau,Tableau,Análisis de datos,herramienta
+scikit-learn,scikit-learn,Machine Learning,biblioteca
+TensorFlow,TensorFlow,Machine Learning,biblioteca
+AWS,AWS,Computación en la nube,plataforma
+Azure,Azure,Computación en la nube,plataforma
+Docker,Docker,DevOps,herramienta
+Kubernetes,Kubernetes,DevOps,plataforma
+Jenkins,Jenkins,DevOps,herramienta
+Wireshark,Wireshark,Redes,herramienta
+Cisco IOS,Cisco IOS,Redes,plataforma
+Splunk,Splunk,Ciberseguridad,herramienta
+Selenium,Selenium,Pruebas de software,herramienta
+Jira,Jira,Gestión de proyectos,herramienta
+Figma,Figma,Diseño UX/UI,herramienta

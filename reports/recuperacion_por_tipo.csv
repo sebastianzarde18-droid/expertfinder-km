@@ -1,0 +1,9 @@
+tipo,modo,P_at_5,R_at_10
+literal,Híbrida + ontología,1.0,0.686
+literal,Palabras clave (exacta),1.0,0.579
+literal,Semántica + ontología,1.0,0.698
+literal,Semántica LSA,1.0,0.634
+parafraseada,Híbrida + ontología,1.0,0.637
+parafraseada,Palabras clave (exacta),0.475,0.289
+parafraseada,Semántica + ontología,1.0,0.637
+parafraseada,Semántica LSA,0.55,0.301

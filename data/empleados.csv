@@ -1,0 +1,31 @@
+id,nombre,puesto,departamento,ingreso,disponibilidad,arquetipo
+EMP-001,Ana Torres,Desarrollador/a Python,Desarrollo de Software,2023-02-01,parcial,dev_python
+EMP-002,Luis Pérez,Especialista en bases de datos,Desarrollo de Software,2022-04-23,ocupado,dba
+EMP-003,Valeria Montoya,Analista de datos,Datos y Analítica,2018-02-13,disponible,analista
+EMP-004,Diego Herrera,Científico/a de datos,Datos y Analítica,2024-02-13,parcial,cientifico
+EMP-005,Camila Rojas,Desarrollador/a Full Stack,Desarrollo de Software,2021-05-03,parcial,fullstack
+EMP-006,Javier Salinas,Ingeniero/a DevOps,Infraestructura y Soporte,2021-06-08,parcial,devops
+EMP-007,Fernanda Cárdenas,Líder de proyecto,Consultoría y Gestión de Proyectos,2024-11-11,disponible,lider
+EMP-008,Ricardo Vela,Analista de ciberseguridad,Calidad y Seguridad,2022-09-01,parcial,seguridad
+EMP-009,Paola Guerrero,Ingeniero/a de calidad (QA),Calidad y Seguridad,2020-09-28,ocupado,qa
+EMP-010,Andrés Camacho,Desarrollador/a Java,Desarrollo de Software,2019-02-02,parcial,dev_java
+EMP-011,Mariana Olvera,Diseñador/a UX/UI,Desarrollo de Software,2021-12-02,disponible,ux
+EMP-012,Sergio Beltrán,Ingeniero/a de redes,Infraestructura y Soporte,2024-01-03,parcial,redes
+EMP-013,Daniela Ibarra,Analista de soporte técnico,Infraestructura y Soporte,2019-01-19,disponible,soporte
+EMP-014,Héctor Quiroz,Arquitecto/a cloud,Infraestructura y Soporte,2023-10-19,parcial,cloud
+EMP-015,Lucía Navarro,Analista de datos,Datos y Analítica,2018-09-07,parcial,analista
+EMP-016,Emilio Cantú,Desarrollador/a Python,Desarrollo de Software,2023-06-07,parcial,dev_python
+EMP-017,Regina Treviño,Líder de proyecto,Consultoría y Gestión de Proyectos,2020-06-26,disponible,lider
+EMP-018,Gabriel Leal,Especialista en bases de datos,Datos y Analítica,2023-06-26,ocupado,dba
+EMP-019,Sofía Barrera,Desarrollador/a Full Stack,Desarrollo de Software,2021-06-09,disponible,fullstack
+EMP-020,Rodrigo Elizondo,Desarrollador/a Java,Desarrollo de Software,2020-01-23,ocupado,dev_java
+EMP-021,Karla Mendoza,Ingeniero/a de calidad (QA),Calidad y Seguridad,2023-05-18,parcial,qa
+EMP-022,Iván Cavazos,Ingeniero/a DevOps,Infraestructura y Soporte,2020-09-22,parcial,devops
+EMP-023,Natalia Fuentes,Científico/a de datos,Datos y Analítica,2023-12-01,disponible,cientifico
+EMP-024,Tomás Ochoa,Analista de soporte técnico,Infraestructura y Soporte,2024-11-09,ocupado,soporte
+EMP-025,Jimena Paredes,Consultora de negocio,Consultoría y Gestión de Proyectos,2021-10-23,disponible,consultora
+EMP-026,Mauricio Solís,Analista de ciberseguridad,Calidad y Seguridad,2018-11-14,parcial,seguridad
+EMP-027,Alejandra Rangel,Desarrollador/a Python,Desarrollo de Software,2018-06-08,disponible,dev_python
+EMP-028,Pablo Villarreal,Ingeniero/a de redes,Infraestructura y Soporte,2021-12-07,disponible,redes
+EMP-029,Renata Aguirre,Diseñador/a UX/UI,Desarrollo de Software,2023-06-03,parcial,ux
+EMP-030,Óscar Maldonado,Desarrollador/a Full Stack,Desarrollo de Software,2024-08-15,ocupado,fullstack

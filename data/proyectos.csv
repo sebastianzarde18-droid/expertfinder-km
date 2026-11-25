@@ -1,0 +1,13 @@
+id,nombre,cliente,sector,tecnologias,inicio,fin,estado
+P01,Portal Bancario,Banco Norte,financiero,PostgreSQL|Django|Docker,2024-09-02,2025-04-30,finalizado
+P02,Plataforma E-commerce Sol,Retail Sol,comercio,React|Node.js|MongoDB|AWS,2024-11-04,2025-06-02,finalizado
+P03,Tablero Analítico de Ventas,Grupo Alfa,manufactura,Power BI|PostgreSQL|pandas,2025-01-13,2025-06-12,finalizado
+P04,Migración a la Nube,Logística Rápida,logística,AWS|Docker|Kubernetes|Jenkins,2025-02-03,2025-10-31,finalizado
+P05,Sistema de Inventarios,Almacenes del Pacífico,logística,Spring Boot|Oracle Database,2025-03-10,2025-11-05,finalizado
+P06,App de Seguros,Seguros Horizonte,financiero,React|Node.js|MySQL|Figma,2025-04-07,2025-10-04,finalizado
+P07,Sistema de Citas Hospitalarias,Hospital Central,salud,Django|PostgreSQL|Selenium,2025-05-05,2025-12-01,finalizado
+P08,Modelo de Predicción de Demanda,Grupo Alfa,manufactura,pandas|scikit-learn|TensorFlow,2025-06-16,2025-12-13,finalizado
+P09,Monitoreo de Infraestructura,Telecom Norte,telecomunicaciones,Splunk|Wireshark|Cisco IOS,2025-08-04,2026-01-01,finalizado
+P10,Portal de Autoservicio de Clientes,Banco Norte,financiero,FastAPI|PostgreSQL|React|Azure,2025-09-01,2026-04-29,en curso
+P11,Modernización de Expedientes,Secretaría Digital,gobierno,Spring Boot|PostgreSQL|Jira,2025-10-06,2026-07-03,en curso
+P12,Plataforma de Capacitación en Línea,Universidad Regio,educación,Django|MySQL|Figma,2025-11-03,2026-05-02,en curso

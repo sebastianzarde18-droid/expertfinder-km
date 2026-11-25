@@ -1,0 +1,1863 @@
+[
+ {
+  "id": "D001",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Machine Learning Specialization – Natalia Fuentes",
+  "texto": "CERTIFICADO\nDeepLearning.AI hace constar que Natalia Fuentes aprobó el examen de la certificación «Machine Learning Specialization». Fecha de obtención: 11/10/2025. Vigencia: sin fecha de vencimiento. Folio TT-891937. La certificación avala conocimientos de Machine Learning.",
+  "empleado": "EMP-023",
+  "certificacion": "C15",
+  "temas": [
+   "Machine Learning"
+  ]
+ },
+ {
+  "id": "D002",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Ana Torres",
+  "texto": "Hoja de vida\nAna Torres | Desarrollador/a Python\nMe desempeño en Desarrollo de Software desde 2023. Mis áreas de dominio son Python (nivel 4/5, 7 años), Bases de datos (nivel 3/5, 2 años); trabajo con Django, FastAPI, PostgreSQL. He obtenido PCAP – Certified Associate in Python Programming. Complete los cursos Python Intermedio. He participado en Portal Bancario (desarrollador backend), Tablero Analítico de Ventas (desarrollador backend), Modernización de Expedientes (desarrollador backend), Plataforma de Capacitación en Línea (desarrollador backend).",
+  "empleado": "EMP-001",
+  "temas": [
+   "Bases de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D003",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – App de Seguros",
+  "texto": "INFORME DE CIERRE DE PROYECTO\nProyecto: App de Seguros. Cliente: Seguros Horizonte (sector financiero). Periodo: 07/04/2025 al 04/10/2025. Estado: finalizado.\nTecnologías empleadas: React, Node.js, MySQL, Figma.\nEquipo: Jimena Paredes (líder de proyecto); Mariana Olvera (diseñador de interfaces); Daniela Ibarra (analista de soporte); Gabriel Leal (especialista de datos); Sofía Barrera (desarrollador full stack); Tomás Ochoa (analista de soporte); Renata Aguirre (diseñador de interfaces); Óscar Maldonado (desarrollador full stack).\nResultados: se entregaron los módulos comprometidos con el cliente Seguros Horizonte, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0699.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante. Se recomienda actualizar los perfiles del equipo con las habilidades aplicadas.",
+  "proyecto": "P06",
+  "temas": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D004",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado ISTQB Certified Tester Foundation Level – Paola Guerrero",
+  "texto": "ISTQB hace constar que Paola Guerrero aprobó el examen de la certificación «ISTQB Certified Tester Foundation Level». Fecha de obtención: 04/08/2025. Vigencia: sin fecha de vencimiento. Folio TT-359947. La certificación avala conocimientos de Pruebas de software. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-009",
+  "certificacion": "C09",
+  "temas": [
+   "Pruebas de software"
+  ]
+ },
+ {
+  "id": "D005",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Tablero Analítico de Ventas",
+  "texto": "INFORME DE CIERRE DE PROYECTO\nProyecto: Tablero Analítico de Ventas. Cliente: Grupo Alfa (sector manufactura). Periodo: 13/01/2025 al 12/06/2025. Estado: finalizado.\nTecnologías empleadas: Power BI, PostgreSQL, pandas.\nEquipo: Jimena Paredes (líder de proyecto); Ana Torres (desarrollador backend); Luis Pérez (especialista de datos); Valeria Montoya (analista de datos); Diego Herrera (científico de datos); Andrés Camacho (desarrollador backend); Lucía Navarro (analista de datos); Emilio Cantú (desarrollador backend); Alejandra Rangel (desarrollador backend).\nResultados: se entregaron los módulos comprometidos con el cliente Grupo Alfa, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0473.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante. Se recomienda actualizar los perfiles del equipo con las habilidades aplicadas.",
+  "proyecto": "P03",
+  "temas": [
+   "Análisis de datos",
+   "Bases de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D006",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0645",
+  "texto": "Registro de incidente\nINC-0645. Severidad: baja. Proyecto afectado: Modernización de Expedientes. Fecha: 05/03/2026.\nSíntoma: Servicio devuelve error 500 en el módulo de inventario. Tecnología involucrada: Spring Boot.\nCausa raíz: excepción no controlada al consultar datos nulos.\nSolución aplicada: validación de datos y manejo de excepciones.\nResponsable: Andrés Camacho. Tiempo de resolución: 3 horas. Estado del ticket: cerrado.",
+  "incidente": "INC-0645",
+  "proyecto": "P11",
+  "empleado": "EMP-010",
+  "temas": [
+   "Java"
+  ]
+ },
+ {
+  "id": "D007",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Preparación para CCNA – Sergio Beltrán",
+  "texto": "Se hace constar que Sergio Beltrán concluyó satisfactoriamente el curso «Preparación para CCNA» con una duración de 40 horas y calificación de 99/100, con fecha 23/07/2025. El curso desarrolla: Redes. Direccionamiento IP, enrutamiento y conmutación.",
+  "empleado": "EMP-012",
+  "curso": "K15",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D008",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Tablero Analítico de Ventas – 14/06/2025",
+  "texto": "Minuta de seguimiento\nProyecto: Tablero Analítico de Ventas. Fecha: 14/06/2025. Asistentes: Jimena Paredes, Ana Torres, Luis Pérez, Valeria Montoya.\nTemas tratados: avance del proyecto con Grupo Alfa, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de Postgres antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre Power BI para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0473 y documentar la solución.",
+  "proyecto": "P03",
+  "temas": [
+   "Análisis de datos",
+   "Bases de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D009",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Luis Pérez",
+  "texto": "Perfil profesional\nLuis Pérez | Especialista en bases de datos\nMe desempeño en Desarrollo de Software desde 2022. Mis áreas de dominio son Bases de datos (nivel 5/5, 4 años); trabajo con Postgres, Oracle Database. He obtenido Oracle Database SQL Certified Associate. Complete los cursos Curso SQL Avanzado. He participado en Tablero Analítico de Ventas (especialista de datos), Sistema de Inventarios (especialista de datos), Portal de Autoservicio de Clientes (especialista de datos), Modernización de Expedientes (especialista de datos).",
+  "empleado": "EMP-002",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D010",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado CompTIA Security+ – Mauricio Solís",
+  "texto": "CompTIA hace constar que Mauricio Solís aprobó el examen de la certificación «CompTIA Security+». Fecha de obtención: 25/06/2023. Vigencia hasta: 25/06/2026. Folio TT-497542. La certificación avala conocimientos de Ciberseguridad. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-026",
+  "certificacion": "C05",
+  "temas": [
+   "Ciberseguridad"
+  ]
+ },
+ {
+  "id": "D011",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Diseño de interfaces con Figma – Mariana Olvera",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Mariana Olvera concluyó satisfactoriamente el curso «Diseño de interfaces con Figma» con una duración de 18 horas y calificación de 99/100, con fecha 15/02/2024. El curso desarrolla: Diseño UX/UI. Prototipos y sistemas de diseño en Figma.",
+  "empleado": "EMP-011",
+  "curso": "K19",
+  "temas": [
+   "Diseño UX/UI"
+  ]
+ },
+ {
+  "id": "D012",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado PCAP – Certified Associate in Python Programming – Alejandra Rangel",
+  "texto": "Constancia de aprobación\nPython Institute hace constar que Alejandra Rangel aprobó el examen de la certificación «PCAP – Certified Associate in Python Programming». Fecha de obtención: 07/10/2021. Vigencia: sin fecha de vencimiento. Folio TT-587623. La certificación avala conocimientos de Python.",
+  "empleado": "EMP-027",
+  "certificacion": "C01",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D013",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Lucía Navarro",
+  "texto": "Perfil profesional\nNombre: Lucía Navarro. Puesto actual: Analista de datos en Datos y Analítica. Ingreso a TalentTech Consulting en 2018.\nResumen: profesional con experiencia en Análisis de datos (nivel 3/5, 3 años), Bases de datos (nivel 4/5, 5 años).\nTecnologías que utilizo: pandas, Power BI, Tableau.\nCertificaciones: Microsoft Power BI Data Analyst (PL-300).\nFormación continua: Pandas para análisis de datos, Visualización con Power BI, Estadística aplicada a datos.\nProyectos recientes: Tablero Analítico de Ventas (analista de datos).\nDisponibilidad: parcial.",
+  "empleado": "EMP-015",
+  "temas": [
+   "Análisis de datos",
+   "Bases de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D014",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Regina Treviño",
+  "texto": "CURRICULUM VITAE\nRegina Treviño | Líder de proyecto\nMe desempeño en Consultoría y Gestión de Proyectos desde 2020. Mis áreas de dominio son Gestión de proyectos (nivel 4/5, 4 años), Metodologías ágiles (nivel 3/5, 2 años); trabajo con Jira. Complete los cursos Scrum Master, Gestión de proyectos con Jira. He participado en Plataforma E-commerce Sol (líder de proyecto), Sistema de Inventarios (líder de proyecto), Modelo de Predicción de Demanda (líder de proyecto), Modernización de Expedientes (líder de proyecto).",
+  "empleado": "EMP-017",
+  "temas": [
+   "Gestión de proyectos",
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D015",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia SQL desde Cero – Alejandra Rangel",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Alejandra Rangel concluyó satisfactoriamente el curso «SQL desde Cero» con una duración de 20 horas y calificación de 94/100, con fecha 19/05/2023. El curso desarrolla: Bases de datos. Consultas SELECT, filtros, uniones y funciones de agregación con SQL.",
+  "empleado": "EMP-027",
+  "curso": "K01",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D016",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Diseño de interfaces con Figma – Renata Aguirre",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Renata Aguirre concluyó satisfactoriamente el curso «Diseño de interfaces con Figma» con una duración de 18 horas y calificación de 98/100, con fecha 06/07/2024. El curso desarrolla: Diseño UX/UI. Prototipos y sistemas de diseño en Figma.",
+  "empleado": "EMP-029",
+  "curso": "K19",
+  "temas": [
+   "Diseño UX/UI"
+  ]
+ },
+ {
+  "id": "D017",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0800",
+  "texto": "Ticket INC-0800. Severidad: baja. Proyecto afectado: Sistema de Citas Hospitalarias. Fecha: 11/11/2025.\nSíntoma: Migración falla al desplegar nueva versión. Tecnología involucrada: Django.\nCausa raíz: conflicto entre migraciones paralelas.\nSolución aplicada: fusión de migraciones y despliegue controlado.\nResponsable: Alejandra Rangel. Tiempo de resolución: 2 horas.",
+  "incidente": "INC-0800",
+  "proyecto": "P07",
+  "empleado": "EMP-027",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D018",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0942",
+  "texto": "Registro de incidente\nINC-0942. Severidad: baja. Proyecto afectado: Sistema de Inventarios. Fecha: 24/08/2025.\nSíntoma: Degradación de rendimiento en reportes nocturnos. Tecnología involucrada: Oracle Database.\nCausa raíz: estadísticas desactualizadas.\nSolución aplicada: recolección de estadísticas y plan de ejecución fijo.\nResponsable: Gabriel Leal. Tiempo de resolución: 3 horas. Estado del ticket: cerrado.",
+  "incidente": "INC-0942",
+  "proyecto": "P05",
+  "empleado": "EMP-018",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D019",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Python Intermedio – Alejandra Rangel",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Alejandra Rangel concluyó satisfactoriamente el curso «Python Intermedio» con una duración de 30 horas y calificación de 100/100, con fecha 04/05/2024. El curso desarrolla: Python. Programación orientada a objetos, módulos, pruebas y entornos virtuales en Python.",
+  "empleado": "EMP-027",
+  "curso": "K05",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D020",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0608",
+  "texto": "Ticket INC-0608. Severidad: baja. Proyecto afectado: Plataforma de Capacitación en Línea. Fecha: 20/04/2026.\nSíntoma: Transacciones fallan con deadlock. Tecnología involucrada: MySQL.\nCausa raíz: orden inconsistente de actualizaciones.\nSolución aplicada: reordenamiento de transacciones y reintentos controlados.\nResponsable: Gabriel Leal. Tiempo de resolución: 5 horas.",
+  "incidente": "INC-0608",
+  "proyecto": "P12",
+  "empleado": "EMP-018",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D021",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Preparación para CCNA – Tomás Ochoa",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Tomás Ochoa concluyó satisfactoriamente el curso «Preparación para CCNA» con una duración de 40 horas y calificación de 95/100, con fecha 15/09/2025. El curso desarrolla: Redes. Direccionamiento IP, enrutamiento y conmutación.",
+  "empleado": "EMP-024",
+  "curso": "K15",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D022",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia SQL desde Cero – Sofía Barrera",
+  "texto": "Se hace constar que Sofía Barrera concluyó satisfactoriamente el curso «SQL desde Cero» con una duración de 20 horas y calificación de 88/100, con fecha 19/07/2023. El curso desarrolla: Bases de datos. Consultas SELECT, filtros, uniones y funciones de agregación con SQL.",
+  "empleado": "EMP-019",
+  "curso": "K01",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D023",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Machine Learning Specialization – Diego Herrera",
+  "texto": "Constancia de aprobación\nDeepLearning.AI hace constar que Diego Herrera aprobó el examen de la certificación «Machine Learning Specialization». Fecha de obtención: 15/03/2022. Vigencia: sin fecha de vencimiento. Folio TT-497887. La certificación avala conocimientos de Machine Learning. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-004",
+  "certificacion": "C15",
+  "temas": [
+   "Machine Learning"
+  ]
+ },
+ {
+  "id": "D024",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia React desde cero – Sofía Barrera",
+  "texto": "Constancia de participación\nSe hace constar que Sofía Barrera concluyó satisfactoriamente el curso «React desde cero» con una duración de 30 horas y calificación de 95/100, con fecha 04/01/2025. El curso desarrolla: JavaScript. Componentes, estado y consumo de APIs con React.",
+  "empleado": "EMP-019",
+  "curso": "K20",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D025",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Pandas para análisis de datos – Valeria Montoya",
+  "texto": "Se hace constar que Valeria Montoya concluyó satisfactoriamente el curso «Pandas para análisis de datos» con una duración de 25 horas y calificación de 89/100, con fecha 28/02/2025. El curso desarrolla: Análisis de datos, Python. Limpieza, transformación y análisis de tablas con pandas y Python.",
+  "empleado": "EMP-003",
+  "curso": "K06",
+  "temas": [
+   "Análisis de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D026",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Daniela Ibarra",
+  "texto": "Daniela Ibarra | Analista de soporte técnico\nMe desempeño en Infraestructura y Soporte desde 2019. Mis áreas de dominio son Soporte técnico (nivel 5/5, 8 años), Redes (nivel 2/5, 2 años), BD (nivel 4/5, 3 años); trabajo con Wireshark, MySQL. He obtenido ITIL 4 Foundation. Complete los cursos ITIL 4 Foundation, Preparación para CCNA. He participado en App de Seguros (analista de soporte), Monitoreo de Infraestructura (analista de soporte), Plataforma de Capacitación en Línea (analista de soporte). Referencias: disponibles a solicitud.",
+  "empleado": "EMP-013",
+  "temas": [
+   "Bases de datos",
+   "Redes",
+   "Soporte técnico"
+  ]
+ },
+ {
+  "id": "D027",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Oracle Database SQL Certified Associate – Luis Pérez",
+  "texto": "CERTIFICADO\nOracle hace constar que Luis Pérez aprobó el examen de la certificación «Oracle Database SQL Certified Associate». Fecha de obtención: 02/03/2023. Vigencia: sin fecha de vencimiento. Folio TT-391369. La certificación avala conocimientos de Bases de datos.",
+  "empleado": "EMP-002",
+  "certificacion": "C02",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D028",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Gabriel Leal",
+  "texto": "Gabriel Leal | Especialista en bases de datos\nMe desempeño en Datos y Analítica desde 2023. Mis áreas de dominio son BD (nivel 5/5, 5 años); trabajo con Oracle Database, Postgres, MySQL. He obtenido Oracle Database SQL Certified Associate. Complete los cursos Curso SQL Avanzado, Administración de PostgreSQL. He participado en Portal Bancario (especialista de datos), Sistema de Inventarios (especialista de datos), App de Seguros (especialista de datos), Sistema de Citas Hospitalarias (especialista de datos).",
+  "empleado": "EMP-018",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D029",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Preparación para CCNA – Ricardo Vela",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Ricardo Vela concluyó satisfactoriamente el curso «Preparación para CCNA» con una duración de 40 horas y calificación de 87/100, con fecha 18/08/2024. El curso desarrolla: Redes. Direccionamiento IP, enrutamiento y conmutación.",
+  "empleado": "EMP-008",
+  "curso": "K15",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D030",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Java con Spring Boot – Rodrigo Elizondo",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Rodrigo Elizondo concluyó satisfactoriamente el curso «Java con Spring Boot» con una duración de 35 horas y calificación de 91/100, con fecha 24/02/2025. El curso desarrolla: Java. Servicios REST y persistencia con Spring Boot.",
+  "empleado": "EMP-020",
+  "curso": "K22",
+  "temas": [
+   "Java"
+  ]
+ },
+ {
+  "id": "D031",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Oracle Database SQL Certified Associate – Gabriel Leal",
+  "texto": "CERTIFICADO\nOracle hace constar que Gabriel Leal aprobó el examen de la certificación «Oracle Database SQL Certified Associate». Fecha de obtención: 08/08/2021. Vigencia: sin fecha de vencimiento. Folio TT-309267. La certificación avala conocimientos de Bases de datos.",
+  "empleado": "EMP-018",
+  "certificacion": "C02",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D032",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Professional Scrum Master I (PSM I) – Karla Mendoza",
+  "texto": "Scrum.org hace constar que Karla Mendoza aprobó el examen de la certificación «Professional Scrum Master I (PSM I)». Fecha de obtención: 21/10/2025. Vigencia: sin fecha de vencimiento. Folio TT-437902. La certificación avala conocimientos de Metodologías ágiles.",
+  "empleado": "EMP-021",
+  "certificacion": "C08",
+  "temas": [
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D033",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Pruebas automatizadas con Selenium – Paola Guerrero",
+  "texto": "Constancia de participación\nSe hace constar que Paola Guerrero concluyó satisfactoriamente el curso «Pruebas automatizadas con Selenium» con una duración de 25 horas y calificación de 83/100, con fecha 03/01/2024. El curso desarrolla: Pruebas de software. Automatización de pruebas web con Selenium.",
+  "empleado": "EMP-009",
+  "curso": "K18",
+  "temas": [
+   "Pruebas de software"
+  ]
+ },
+ {
+  "id": "D034",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado PMP – Project Management Professional – Jimena Paredes",
+  "texto": "Constancia de aprobación\nPMI hace constar que Jimena Paredes aprobó el examen de la certificación «PMP – Project Management Professional». Fecha de obtención: 01/08/2024. Vigencia hasta: 01/08/2027. Folio TT-507746. La certificación avala conocimientos de Gestión de proyectos.",
+  "empleado": "EMP-025",
+  "certificacion": "C07",
+  "temas": [
+   "Gestión de proyectos"
+  ]
+ },
+ {
+  "id": "D035",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Alejandra Rangel",
+  "texto": "Alejandra Rangel | Desarrollador/a Python\nMe desempeño en Desarrollo de Software desde 2018. Mis áreas de dominio son Python (nivel 5/5, 5 años), Bases de datos (nivel 2/5, 1 años); trabajo con FastAPI, Django, Postgres. He obtenido PCAP – Certified Associate in Python Programming. Complete los cursos Python Básico, Python Intermedio, SQL desde Cero. He participado en Portal Bancario (desarrollador backend), Tablero Analítico de Ventas (desarrollador backend), Sistema de Citas Hospitalarias (desarrollador backend), Portal de Autoservicio de Clientes (desarrollador backend). Referencias: disponibles a solicitud.",
+  "empleado": "EMP-027",
+  "temas": [
+   "Bases de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D036",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Preparación para CCNA – Mauricio Solís",
+  "texto": "Se hace constar que Mauricio Solís concluyó satisfactoriamente el curso «Preparación para CCNA» con una duración de 40 horas y calificación de 99/100, con fecha 24/01/2026. El curso desarrolla: Redes. Direccionamiento IP, enrutamiento y conmutación.",
+  "empleado": "EMP-026",
+  "curso": "K15",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D037",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Sistema de Inventarios",
+  "texto": "Proyecto: Sistema de Inventarios. Cliente: Almacenes del Pacífico (sector logística). Periodo: 10/03/2025 al 05/11/2025. Estado: finalizado.\nTecnologías empleadas: Spring Boot, Oracle Database.\nEquipo: Regina Treviño (líder de proyecto); Luis Pérez (especialista de datos); Andrés Camacho (desarrollador backend); Gabriel Leal (especialista de datos); Rodrigo Elizondo (desarrollador backend).\nResultados: se entregaron los módulos comprometidos con el cliente Almacenes del Pacífico, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0542, INC-0766, INC-0942.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P05",
+  "temas": [
+   "Bases de datos",
+   "Java"
+  ]
+ },
+ {
+  "id": "D038",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia React desde cero – Camila Rojas",
+  "texto": "Se hace constar que Camila Rojas concluyó satisfactoriamente el curso «React desde cero» con una duración de 30 horas y calificación de 99/100, con fecha 24/04/2024. El curso desarrolla: JavaScript. Componentes, estado y consumo de APIs con React.",
+  "empleado": "EMP-005",
+  "curso": "K20",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D039",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Tomás Ochoa",
+  "texto": "Tomás Ochoa | Analista de soporte técnico\nMe desempeño en Infraestructura y Soporte desde 2024. Mis áreas de dominio son Soporte técnico (nivel 5/5, 5 años), Redes (nivel 3/5, 4 años), Bases de datos (nivel 3/5, 4 años); trabajo con MySQL, Wireshark. He obtenido ITIL 4 Foundation. Complete los cursos ITIL 4 Foundation, Preparación para CCNA, SQL desde Cero. He participado en App de Seguros (analista de soporte), Monitoreo de Infraestructura (analista de soporte), Plataforma de Capacitación en Línea (analista de soporte).",
+  "empleado": "EMP-024",
+  "temas": [
+   "Bases de datos",
+   "Redes",
+   "Soporte técnico"
+  ]
+ },
+ {
+  "id": "D040",
+  "categoria": "Manual o política interna",
+  "titulo": "Procedimiento de registro de perfil e incorporación",
+  "texto": "PROCEDIMIENTO DE REGISTRO DE PERFIL E INCORPORACIÓN\nRecursos Humanos crea el perfil del nuevo colaborador durante su primera semana, con puesto, departamento y fecha de ingreso.\nEl colaborador carga su CV y sus certificados; el sistema clasifica cada documento y propone habilidades.\nEl colaborador confirma las propuestas y acepta el aviso de privacidad.\nEl jefe directo valida el nivel de las habilidades principales durante el primer mes.",
+  "temas": []
+ },
+ {
+  "id": "D041",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Portal Bancario",
+  "texto": "INFORME DE CIERRE DE PROYECTO\nProyecto: Portal Bancario. Cliente: Banco Norte (sector financiero). Periodo: 02/09/2024 al 30/04/2025. Estado: finalizado.\nTecnologías empleadas: PostgreSQL, Django, Docker.\nEquipo: Fernanda Cárdenas (líder de proyecto); Ana Torres (desarrollador backend); Valeria Montoya (analista de datos); Javier Salinas (ingeniero DevOps); Emilio Cantú (desarrollador backend); Gabriel Leal (especialista de datos); Iván Cavazos (ingeniero DevOps); Alejandra Rangel (desarrollador backend).\nResultados: se entregaron los módulos comprometidos con el cliente Banco Norte, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0457, INC-0573.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P01",
+  "temas": [
+   "Bases de datos",
+   "DevOps",
+   "Python"
+  ]
+ },
+ {
+  "id": "D042",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado ITIL 4 Foundation – Daniela Ibarra",
+  "texto": "PeopleCert hace constar que Daniela Ibarra aprobó el examen de la certificación «ITIL 4 Foundation». Fecha de obtención: 28/11/2021. Vigencia: sin fecha de vencimiento. Folio TT-346629. La certificación avala conocimientos de Soporte técnico.",
+  "empleado": "EMP-013",
+  "certificacion": "C16",
+  "temas": [
+   "Soporte técnico"
+  ]
+ },
+ {
+  "id": "D043",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Microsoft Power BI Data Analyst (PL-300) – Valeria Montoya",
+  "texto": "Microsoft hace constar que Valeria Montoya aprobó el examen de la certificación «Microsoft Power BI Data Analyst (PL-300)». Fecha de obtención: 02/02/2026. Vigencia hasta: 02/02/2027. Folio TT-793384. La certificación avala conocimientos de Análisis de datos. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-003",
+  "certificacion": "C11",
+  "temas": [
+   "Análisis de datos"
+  ]
+ },
+ {
+  "id": "D044",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Microsoft Power BI Data Analyst (PL-300) – Lucía Navarro",
+  "texto": "CONSTANCIA DE CERTIFICACIÓN\nMicrosoft hace constar que Lucía Navarro aprobó el examen de la certificación «Microsoft Power BI Data Analyst (PL-300)». Fecha de obtención: 17/11/2025. Vigencia hasta: 17/11/2026. Folio TT-108203. La certificación avala conocimientos de Análisis de datos.",
+  "empleado": "EMP-015",
+  "certificacion": "C11",
+  "temas": [
+   "Análisis de datos"
+  ]
+ },
+ {
+  "id": "D045",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0731",
+  "texto": "Ticket INC-0731. Severidad: media. Proyecto afectado: Modernización de Expedientes. Fecha: 27/11/2025.\nSíntoma: Disco al 100% en el servidor de base de datos. Tecnología involucrada: Postgres.\nCausa raíz: acumulación de archivos WAL.\nSolución aplicada: limpieza de WAL y configuración de archivado.\nResponsable: Ana Torres. Tiempo de resolución: 2 horas. Estado del ticket: cerrado.",
+  "incidente": "INC-0731",
+  "proyecto": "P11",
+  "empleado": "EMP-001",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D046",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Emilio Cantú",
+  "texto": "Perfil profesional\nNombre: Emilio Cantú. Puesto actual: Desarrollador/a Python en Desarrollo de Software. Ingreso a TalentTech Consulting en 2023.\nResumen: profesional con experiencia en Python (nivel 5/5, 6 años), Bases de datos (nivel 2/5, 1 años), Pruebas de software (nivel 3/5, 2 años).\nTecnologías que utilizo: PostgreSQL, Django, FastAPI.\nCertificaciones: PCAP – Certified Associate in Python Programming.\nFormación continua: Python Básico, Python Intermedio, SQL desde Cero.\nProyectos recientes: Portal Bancario (desarrollador backend), Tablero Analítico de Ventas (desarrollador backend), Sistema de Citas Hospitalarias (desarrollador backend), Portal de Autoservicio de Clientes (desarrollador backend).\nDisponibilidad: parcial. Atendí incidentes de producción en guardias rotativas.",
+  "empleado": "EMP-016",
+  "temas": [
+   "Bases de datos",
+   "Pruebas de software",
+   "Python"
+  ]
+ },
+ {
+  "id": "D047",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Valeria Montoya",
+  "texto": "Hoja de vida\nNombre: Valeria Montoya. Puesto actual: Analista de datos en Datos y Analítica. Ingreso a TalentTech Consulting en 2018.\nResumen: profesional con experiencia en Análisis de datos (nivel 4/5, 3 años), Bases de datos (nivel 4/5, 6 años).\nTecnologías que utilizo: Power BI, Tableau, PostgreSQL.\nCertificaciones: Google Data Analytics Certificate, Microsoft Power BI Data Analyst (PL-300).\nFormación continua: Pandas para análisis de datos.\nProyectos recientes: Portal Bancario (analista de datos), Tablero Analítico de Ventas (analista de datos), Sistema de Citas Hospitalarias (analista de datos), Modernización de Expedientes (analista de datos).\nDisponibilidad: disponible.",
+  "empleado": "EMP-003",
+  "temas": [
+   "Análisis de datos",
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D048",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Java con Spring Boot – Andrés Camacho",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Andrés Camacho concluyó satisfactoriamente el curso «Java con Spring Boot» con una duración de 35 horas y calificación de 85/100, con fecha 04/04/2026. El curso desarrolla: Java. Servicios REST y persistencia con Spring Boot.",
+  "empleado": "EMP-010",
+  "curso": "K22",
+  "temas": [
+   "Java"
+  ]
+ },
+ {
+  "id": "D049",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0457",
+  "texto": "Registro de incidente\nINC-0457. Severidad: alta. Proyecto afectado: Portal Bancario. Fecha: 18/03/2025.\nSíntoma: Caída de BD: la aplicación no responde y se agotan las conexiones. Tecnología involucrada: PostgreSQL.\nCausa raíz: saturación de conexiones.\nSolución aplicada: reconfiguración y ajuste de índices.\nResponsable: Luis Pérez. Tiempo de resolución: 3 horas.",
+  "incidente": "INC-0457",
+  "proyecto": "P01",
+  "empleado": "EMP-002",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D050",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Seguridad informática básica – Ricardo Vela",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Ricardo Vela concluyó satisfactoriamente el curso «Seguridad informática básica» con una duración de 20 horas y calificación de 86/100, con fecha 25/09/2023. El curso desarrolla: Ciberseguridad. Amenazas, controles y buenas prácticas de seguridad.",
+  "empleado": "EMP-008",
+  "curso": "K14",
+  "temas": [
+   "Ciberseguridad"
+  ]
+ },
+ {
+  "id": "D051",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Gestión de proyectos con Jira – Fernanda Cárdenas",
+  "texto": "Constancia de participación\nSe hace constar que Fernanda Cárdenas concluyó satisfactoriamente el curso «Gestión de proyectos con Jira» con una duración de 12 horas y calificación de 87/100, con fecha 12/03/2024. El curso desarrolla: Gestión de proyectos. Tableros, backlogs y reportes en Jira.",
+  "empleado": "EMP-007",
+  "curso": "K17",
+  "temas": [
+   "Gestión de proyectos"
+  ]
+ },
+ {
+  "id": "D052",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0844",
+  "texto": "Registro de incidente\nINC-0844. Severidad: media. Proyecto afectado: Plataforma E-commerce Sol. Fecha: 18/05/2025.\nSíntoma: Servicio se detiene por consumo de memoria. Tecnología involucrada: Node.js.\nCausa raíz: fuga de memoria en un manejador de eventos.\nSolución aplicada: corrección del manejador y reinicio programado.\nResponsable: Sofía Barrera. Tiempo de resolución: 6 horas.",
+  "incidente": "INC-0844",
+  "proyecto": "P02",
+  "empleado": "EMP-019",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D053",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Iván Cavazos",
+  "texto": "CURRICULUM VITAE\nIván Cavazos | Ingeniero/a DevOps\nMe desempeño en Infraestructura y Soporte desde 2020. Mis áreas de dominio son DevOps (nivel 3/5, 4 años); trabajo con Kubernetes, Docker, Jenkins. He obtenido Certified Kubernetes Administrator (CKA). Complete los cursos Docker y contenedores, CI/CD con Jenkins. He participado en Portal Bancario (ingeniero DevOps), Migración a la Nube (ingeniero DevOps).",
+  "empleado": "EMP-022",
+  "temas": [
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D054",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Google Data Analytics Certificate – Jimena Paredes",
+  "texto": "Google hace constar que Jimena Paredes aprobó el examen de la certificación «Google Data Analytics Certificate». Fecha de obtención: 24/07/2026. Vigencia: sin fecha de vencimiento. Folio TT-273061. La certificación avala conocimientos de Análisis de datos. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-025",
+  "certificacion": "C10",
+  "temas": [
+   "Análisis de datos"
+  ]
+ },
+ {
+  "id": "D055",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado ITIL 4 Foundation – Tomás Ochoa",
+  "texto": "CONSTANCIA DE CERTIFICACIÓN\nPeopleCert hace constar que Tomás Ochoa aprobó el examen de la certificación «ITIL 4 Foundation». Fecha de obtención: 23/07/2022. Vigencia: sin fecha de vencimiento. Folio TT-260227. La certificación avala conocimientos de Soporte técnico.",
+  "empleado": "EMP-024",
+  "certificacion": "C16",
+  "temas": [
+   "Soporte técnico"
+  ]
+ },
+ {
+  "id": "D056",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Fernanda Cárdenas",
+  "texto": "Perfil profesional\nNombre: Fernanda Cárdenas. Puesto actual: Líder de proyecto en Consultoría y Gestión de Proyectos. Ingreso a TalentTech Consulting en 2024.\nResumen: profesional con experiencia en Gestión de proyectos (nivel 4/5, 4 años), Metodologías ágiles (nivel 4/5, 6 años).\nTecnologías que utilizo: Jira.\nCertificaciones: ninguna registrada.\nFormación continua: Scrum Master, Gestión de proyectos con Jira.\nProyectos recientes: Portal Bancario (líder de proyecto), Migración a la Nube (líder de proyecto), Sistema de Citas Hospitalarias (líder de proyecto), Portal de Autoservicio de Clientes (líder de proyecto).\nDisponibilidad: disponible.",
+  "empleado": "EMP-007",
+  "temas": [
+   "Gestión de proyectos",
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D057",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Renata Aguirre",
+  "texto": "Perfil profesional\nNombre: Renata Aguirre. Puesto actual: Diseñador/a UX/UI en Desarrollo de Software. Ingreso a TalentTech Consulting en 2023.\nResumen: profesional con experiencia en Diseño UX/UI (nivel 3/5, 5 años).\nTecnologías que utilizo: Figma, React.\nCertificaciones: ninguna registrada.\nFormación continua: Diseño de interfaces con Figma, React desde cero.\nProyectos recientes: Plataforma E-commerce Sol (diseñador de interfaces), App de Seguros (diseñador de interfaces), Portal de Autoservicio de Clientes (diseñador de interfaces), Plataforma de Capacitación en Línea (diseñador de interfaces).\nDisponibilidad: parcial.",
+  "empleado": "EMP-029",
+  "temas": [
+   "Diseño UX/UI",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D058",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Diego Herrera",
+  "texto": "CURRICULUM VITAE\nNombre: Diego Herrera. Puesto actual: Científico/a de datos en Datos y Analítica. Ingreso a TalentTech Consulting en 2024.\nResumen: profesional con experiencia en Machine Learning (nivel 4/5, 4 años), Python (nivel 5/5, 6 años), Bases de datos (nivel 3/5, 2 años).\nTecnologías que utilizo: pandas, scikit-learn.\nCertificaciones: Machine Learning Specialization.\nFormación continua: Introducción a Machine Learning, Estadística aplicada a datos.\nProyectos recientes: Tablero Analítico de Ventas (científico de datos), Modelo de Predicción de Demanda (científico de datos).\nDisponibilidad: parcial.",
+  "empleado": "EMP-004",
+  "temas": [
+   "Bases de datos",
+   "Machine Learning",
+   "Python"
+  ]
+ },
+ {
+  "id": "D059",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia SQL desde Cero – Andrés Camacho",
+  "texto": "Se hace constar que Andrés Camacho concluyó satisfactoriamente el curso «SQL desde Cero» con una duración de 20 horas y calificación de 95/100, con fecha 14/06/2026. El curso desarrolla: Bases de datos. Consultas SELECT, filtros, uniones y funciones de agregación con SQL.",
+  "empleado": "EMP-010",
+  "curso": "K01",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D060",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Sistema de Inventarios – 04/07/2025",
+  "texto": "Acta de reunión\nProyecto: Sistema de Inventarios. Fecha: 04/07/2025. Asistentes: Regina Treviño, Luis Pérez, Andrés Camacho, Gabriel Leal.\nTemas tratados: avance del proyecto con Almacenes del Pacífico, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de Spring Boot antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre Spring Boot para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0542 y documentar la solución.",
+  "proyecto": "P05",
+  "temas": [
+   "Bases de datos",
+   "Java"
+  ]
+ },
+ {
+  "id": "D061",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Sistema de Citas Hospitalarias",
+  "texto": "Cierre de proyecto y lecciones aprendidas\nProyecto: Sistema de Citas Hospitalarias. Cliente: Hospital Central (sector salud). Periodo: 05/05/2025 al 01/12/2025. Estado: finalizado.\nTecnologías empleadas: Django, PostgreSQL, Selenium.\nEquipo: Fernanda Cárdenas (líder de proyecto); Valeria Montoya (analista de datos); Paola Guerrero (ingeniero de calidad); Andrés Camacho (desarrollador backend); Emilio Cantú (desarrollador backend); Gabriel Leal (especialista de datos); Karla Mendoza (ingeniero de calidad); Alejandra Rangel (desarrollador backend).\nResultados: se entregaron los módulos comprometidos con el cliente Hospital Central, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0800, INC-0876.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P07",
+  "temas": [
+   "Bases de datos",
+   "Pruebas de software",
+   "Python"
+  ]
+ },
+ {
+  "id": "D062",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Scrum Master – Regina Treviño",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Regina Treviño concluyó satisfactoriamente el curso «Scrum Master» con una duración de 16 horas y calificación de 87/100, con fecha 28/04/2024. El curso desarrolla: Metodologías ágiles. Roles, eventos y artefactos de Scrum.",
+  "empleado": "EMP-017",
+  "curso": "K16",
+  "temas": [
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D063",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0834",
+  "texto": "Registro de incidente\nINC-0834. Severidad: alta. Proyecto afectado: Monitoreo de Infraestructura. Fecha: 18/09/2025.\nSíntoma: Alertas de múltiples intentos de acceso fallidos. Tecnología involucrada: Splunk.\nCausa raíz: intento de acceso por fuerza bruta.\nSolución aplicada: bloqueo de direcciones, rotación de credenciales y regla de alerta.\nResponsable: Mauricio Solís. Tiempo de resolución: 4 horas. Estado del ticket: cerrado.",
+  "incidente": "INC-0834",
+  "proyecto": "P09",
+  "empleado": "EMP-026",
+  "temas": [
+   "Ciberseguridad"
+  ]
+ },
+ {
+  "id": "D064",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Jimena Paredes",
+  "texto": "Perfil profesional\nJimena Paredes | Consultora de negocio\nMe desempeño en Consultoría y Gestión de Proyectos desde 2021. Mis áreas de dominio son Gestión de proyectos (nivel 5/5, 6 años), Análisis de datos (nivel 4/5, 6 años), Metodologías ágiles (nivel 3/5, 5 años); trabajo con Jira, Power BI. He obtenido PMP – Project Management Professional, Google Data Analytics Certificate. Complete los cursos Gestión de proyectos con Jira, Visualización con Power BI. He participado en Tablero Analítico de Ventas (líder de proyecto), App de Seguros (líder de proyecto), Monitoreo de Infraestructura (líder de proyecto), Plataforma de Capacitación en Línea (líder de proyecto).",
+  "empleado": "EMP-025",
+  "temas": [
+   "Análisis de datos",
+   "Gestión de proyectos",
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D065",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Tablero Analítico de Ventas – 25/05/2025",
+  "texto": "Acta de reunión\nProyecto: Tablero Analítico de Ventas. Fecha: 25/05/2025. Asistentes: Jimena Paredes, Ana Torres, Luis Pérez, Valeria Montoya.\nTemas tratados: avance del proyecto con Grupo Alfa, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de PostgreSQL antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre PostgreSQL para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0473 y documentar la solución.",
+  "proyecto": "P03",
+  "temas": [
+   "Análisis de datos",
+   "Bases de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D066",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta App de Seguros – 23/10/2025",
+  "texto": "MINUTA DE REUNIÓN\nProyecto: App de Seguros. Fecha: 23/10/2025. Asistentes: Jimena Paredes, Mariana Olvera, Daniela Ibarra, Gabriel Leal.\nTemas tratados: avance del proyecto con Seguros Horizonte, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de React antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre React para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0699 y documentar la solución. (5) Renovar las certificaciones próximas a vencer de los integrantes.",
+  "proyecto": "P06",
+  "temas": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D067",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Preparación para CCNA – Daniela Ibarra",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Daniela Ibarra concluyó satisfactoriamente el curso «Preparación para CCNA» con una duración de 40 horas y calificación de 95/100, con fecha 03/10/2023. El curso desarrolla: Redes. Direccionamiento IP, enrutamiento y conmutación.",
+  "empleado": "EMP-013",
+  "curso": "K15",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D068",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0542",
+  "texto": "Registro de incidente\nINC-0542. Severidad: media. Proyecto afectado: Sistema de Inventarios. Fecha: 05/06/2025.\nSíntoma: Servicio devuelve error 500 en el módulo de inventario. Tecnología involucrada: Spring Boot.\nCausa raíz: excepción no controlada al consultar datos nulos.\nSolución aplicada: validación de datos y manejo de excepciones.\nResponsable: Andrés Camacho. Tiempo de resolución: 3 horas.",
+  "incidente": "INC-0542",
+  "proyecto": "P05",
+  "empleado": "EMP-010",
+  "temas": [
+   "Java"
+  ]
+ },
+ {
+  "id": "D069",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Scrum Master – Karla Mendoza",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Karla Mendoza concluyó satisfactoriamente el curso «Scrum Master» con una duración de 16 horas y calificación de 84/100, con fecha 22/03/2026. El curso desarrolla: Metodologías ágiles. Roles, eventos y artefactos de Scrum.",
+  "empleado": "EMP-021",
+  "curso": "K16",
+  "temas": [
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D070",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Sergio Beltrán",
+  "texto": "CURRICULUM VITAE\nSergio Beltrán | Ingeniero/a de redes\nMe desempeño en Infraestructura y Soporte desde 2024. Mis áreas de dominio son Redes (nivel 3/5, 3 años), Ciberseguridad (nivel 3/5, 5 años); trabajo con Cisco IOS, Wireshark. He obtenido Cisco CCNA. Complete los cursos Preparación para CCNA, Seguridad informática básica. He participado en Monitoreo de Infraestructura (ingeniero de redes).",
+  "empleado": "EMP-012",
+  "temas": [
+   "Ciberseguridad",
+   "Redes"
+  ]
+ },
+ {
+  "id": "D071",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Pandas para análisis de datos – Lucía Navarro",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Lucía Navarro concluyó satisfactoriamente el curso «Pandas para análisis de datos» con una duración de 25 horas y calificación de 90/100, con fecha 05/02/2025. El curso desarrolla: Análisis de datos, Python. Limpieza, transformación y análisis de tablas con pandas y Python.",
+  "empleado": "EMP-015",
+  "curso": "K06",
+  "temas": [
+   "Análisis de datos",
+   "Python"
+  ]
+ },
+ {
+  "id": "D072",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado CompTIA Security+ – Ricardo Vela",
+  "texto": "CompTIA hace constar que Ricardo Vela aprobó el examen de la certificación «CompTIA Security+». Fecha de obtención: 03/02/2025. Vigencia hasta: 03/02/2028. Folio TT-867460. La certificación avala conocimientos de Ciberseguridad.",
+  "empleado": "EMP-008",
+  "certificacion": "C05",
+  "temas": [
+   "Ciberseguridad"
+  ]
+ },
+ {
+  "id": "D073",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado ISTQB Certified Tester Foundation Level – Karla Mendoza",
+  "texto": "CERTIFICADO\nISTQB hace constar que Karla Mendoza aprobó el examen de la certificación «ISTQB Certified Tester Foundation Level». Fecha de obtención: 10/05/2021. Vigencia: sin fecha de vencimiento. Folio TT-320392. La certificación avala conocimientos de Pruebas de software.",
+  "empleado": "EMP-021",
+  "certificacion": "C09",
+  "temas": [
+   "Pruebas de software"
+  ]
+ },
+ {
+  "id": "D074",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Docker y contenedores – Iván Cavazos",
+  "texto": "Se hace constar que Iván Cavazos concluyó satisfactoriamente el curso «Docker y contenedores» con una duración de 20 horas y calificación de 94/100, con fecha 07/10/2026. El curso desarrolla: DevOps. Imágenes, contenedores, redes y volúmenes con Docker.",
+  "empleado": "EMP-022",
+  "curso": "K10",
+  "temas": [
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D075",
+  "categoria": "Manual o política interna",
+  "titulo": "Procedimiento de cierre de proyecto y lecciones aprendidas",
+  "texto": "PROCEDIMIENTO DE CIERRE DE PROYECTO Y LECCIONES APRENDIDAS\nEl líder de proyecto elabora el informe de cierre dentro de los 10 días hábiles posteriores a la entrega final.\nEl informe incluye: cliente, periodo, equipo con roles, tecnologías empleadas, resultados, incidentes relevantes y lecciones aprendidas.\nUna vez cargado el informe, el sistema propone habilidades aplicadas por cada integrante para que sean confirmadas.\nRecursos Humanos revisa que los perfiles del equipo queden actualizados.",
+  "temas": []
+ },
+ {
+  "id": "D076",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia ITIL 4 Foundation – Tomás Ochoa",
+  "texto": "Se hace constar que Tomás Ochoa concluyó satisfactoriamente el curso «ITIL 4 Foundation» con una duración de 16 horas y calificación de 95/100, con fecha 14/02/2024. El curso desarrolla: Soporte técnico. Gestión de servicios y de incidentes con ITIL 4.",
+  "empleado": "EMP-024",
+  "curso": "K23",
+  "temas": [
+   "Soporte técnico"
+  ]
+ },
+ {
+  "id": "D077",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Plataforma de Capacitación en Línea",
+  "texto": "Proyecto: Plataforma de Capacitación en Línea. Cliente: Universidad Regio (sector educación). Periodo: 03/11/2025 al 02/05/2026. Estado: en curso.\nTecnologías empleadas: Django, MySQL, Figma.\nEquipo: Jimena Paredes (líder de proyecto); Ana Torres (desarrollador backend); Camila Rojas (desarrollador full stack); Daniela Ibarra (analista de soporte); Gabriel Leal (especialista de datos); Tomás Ochoa (analista de soporte); Alejandra Rangel (desarrollador backend); Renata Aguirre (diseñador de interfaces); Óscar Maldonado (desarrollador full stack).\nResultados: se entregaron los módulos comprometidos con el cliente Universidad Regio, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0608.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P12",
+  "temas": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "Python"
+  ]
+ },
+ {
+  "id": "D078",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Oracle Certified Professional Java SE – Andrés Camacho",
+  "texto": "Oracle hace constar que Andrés Camacho aprobó el examen de la certificación «Oracle Certified Professional Java SE». Fecha de obtención: 16/10/2025. Vigencia: sin fecha de vencimiento. Folio TT-354801. La certificación avala conocimientos de Java.",
+  "empleado": "EMP-010",
+  "certificacion": "C14",
+  "temas": [
+   "Java"
+  ]
+ },
+ {
+  "id": "D079",
+  "categoria": "Manual o política interna",
+  "titulo": "Procedimiento para solicitar un especialista",
+  "texto": "PROCEDIMIENTO PARA SOLICITAR UN ESPECIALISTA\nObjetivo: formar equipos de proyecto con personal que tenga evidencia comprobable de sus habilidades.\nPaso 1. El líder de proyecto registra la solicitud en ExpertFinder indicando las habilidades requeridas, el nivel mínimo y las fechas.\nPaso 2. El sistema muestra los especialistas ordenados por coincidencia y por solidez de la evidencia.\nPaso 3. El líder revisa las evidencias de cada candidato (certificaciones vigentes, proyectos e incidentes) y selecciona hasta tres.\nPaso 4. Recursos Humanos confirma la disponibilidad del colaborador en un plazo máximo de 2 días hábiles.\nPaso 5. Gestión de Proyectos formaliza la asignación y notifica al colaborador y a su jefe directo.",
+  "temas": []
+ },
+ {
+  "id": "D080",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Scrum Master – Fernanda Cárdenas",
+  "texto": "Constancia de participación\nSe hace constar que Fernanda Cárdenas concluyó satisfactoriamente el curso «Scrum Master» con una duración de 16 horas y calificación de 91/100, con fecha 04/09/2024. El curso desarrolla: Metodologías ágiles. Roles, eventos y artefactos de Scrum.",
+  "empleado": "EMP-007",
+  "curso": "K16",
+  "temas": [
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D081",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado PCAP – Certified Associate in Python Programming – Emilio Cantú",
+  "texto": "Constancia de aprobación\nPython Institute hace constar que Emilio Cantú aprobó el examen de la certificación «PCAP – Certified Associate in Python Programming». Fecha de obtención: 23/09/2024. Vigencia: sin fecha de vencimiento. Folio TT-548462. La certificación avala conocimientos de Python. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-016",
+  "certificacion": "C01",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D082",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Ricardo Vela",
+  "texto": "Nombre: Ricardo Vela. Puesto actual: Analista de ciberseguridad en Calidad y Seguridad. Ingreso a TalentTech Consulting en 2022.\nResumen: profesional con experiencia en Ciberseguridad (nivel 4/5, 3 años), Redes (nivel 3/5, 4 años).\nTecnologías que utilizo: Wireshark, Splunk.\nCertificaciones: CompTIA Security+.\nFormación continua: Seguridad informática básica, Preparación para CCNA.\nProyectos recientes: Monitoreo de Infraestructura (analista de seguridad).\nDisponibilidad: parcial.",
+  "empleado": "EMP-008",
+  "temas": [
+   "Ciberseguridad",
+   "Redes"
+  ]
+ },
+ {
+  "id": "D083",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia ITIL 4 Foundation – Daniela Ibarra",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Daniela Ibarra concluyó satisfactoriamente el curso «ITIL 4 Foundation» con una duración de 16 horas y calificación de 100/100, con fecha 08/10/2023. El curso desarrolla: Soporte técnico. Gestión de servicios y de incidentes con ITIL 4.",
+  "empleado": "EMP-013",
+  "curso": "K23",
+  "temas": [
+   "Soporte técnico"
+  ]
+ },
+ {
+  "id": "D084",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Certified Kubernetes Administrator (CKA) – Javier Salinas",
+  "texto": "CONSTANCIA DE CERTIFICACIÓN\nCNCF hace constar que Javier Salinas aprobó el examen de la certificación «Certified Kubernetes Administrator (CKA)». Fecha de obtención: 17/08/2025. Vigencia hasta: 17/08/2027. Folio TT-363626. La certificación avala conocimientos de DevOps.",
+  "empleado": "EMP-006",
+  "certificacion": "C12",
+  "temas": [
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D085",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Professional Scrum Master I (PSM I) – Paola Guerrero",
+  "texto": "CERTIFICADO\nScrum.org hace constar que Paola Guerrero aprobó el examen de la certificación «Professional Scrum Master I (PSM I)». Fecha de obtención: 19/01/2023. Vigencia: sin fecha de vencimiento. Folio TT-680828. La certificación avala conocimientos de Metodologías ágiles.",
+  "empleado": "EMP-009",
+  "certificacion": "C08",
+  "temas": [
+   "Metodologías ágiles"
+  ]
+ },
+ {
+  "id": "D086",
+  "categoria": "Manual o política interna",
+  "titulo": "Procedimiento de atención y escalamiento de incidentes",
+  "texto": "PROCEDIMIENTO DE ATENCIÓN Y ESCALAMIENTO DE INCIDENTES\nTodo incidente se registra como ticket con código INC, severidad, proyecto afectado y síntoma.\nSeveridad alta: atención inmediata y escalamiento al líder técnico en menos de 30 minutos.\nSeveridad media: atención en un máximo de 4 horas hábiles. Severidad baja: atención en 2 días hábiles.\nAntes de escalar, el analista consulta en ExpertFinder los incidentes anteriores sobre la misma tecnología para reutilizar la solución documentada.\nAl cerrar el ticket se debe registrar causa raíz, solución aplicada, responsable y tiempo de resolución.",
+  "temas": [
+   "Soporte técnico"
+  ]
+ },
+ {
+  "id": "D087",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0473",
+  "texto": "Registro de incidente\nINC-0473. Severidad: alta. Proyecto afectado: Tablero Analítico de Ventas. Fecha: 21/03/2025.\nSíntoma: Consultas lentas en horario pico. Tecnología involucrada: PostgreSQL.\nCausa raíz: consultas sin índice y bloqueos prolongados.\nSolución aplicada: creación de índices y reescritura de consultas.\nResponsable: Emilio Cantú. Tiempo de resolución: 4 horas.",
+  "incidente": "INC-0473",
+  "proyecto": "P03",
+  "empleado": "EMP-016",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D088",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Estadística aplicada a datos – Diego Herrera",
+  "texto": "Se hace constar que Diego Herrera concluyó satisfactoriamente el curso «Estadística aplicada a datos» con una duración de 24 horas y calificación de 92/100, con fecha 26/01/2024. El curso desarrolla: Análisis de datos, Machine Learning. Estadística descriptiva e inferencial para análisis y modelos.",
+  "empleado": "EMP-004",
+  "curso": "K24",
+  "temas": [
+   "Análisis de datos",
+   "Machine Learning"
+  ]
+ },
+ {
+  "id": "D089",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Paola Guerrero",
+  "texto": "Paola Guerrero | Ingeniero/a de calidad (QA)\nMe desempeño en Calidad y Seguridad desde 2020. Mis áreas de dominio son Pruebas de software (nivel 3/5, 3 años), Metodologías ágiles (nivel 5/5, 6 años); trabajo con Jira, Selenium. He obtenido ISTQB Certified Tester Foundation Level, Professional Scrum Master I (PSM I). Complete los cursos Pruebas automatizadas con Selenium. He participado en Sistema de Citas Hospitalarias (ingeniero de calidad), Modernización de Expedientes (ingeniero de calidad).",
+  "empleado": "EMP-009",
+  "temas": [
+   "Gestión de proyectos",
+   "Metodologías ágiles",
+   "Pruebas de software"
+  ]
+ },
+ {
+  "id": "D090",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0699",
+  "texto": "TICKET DE INCIDENTE\nINC-0699. Severidad: media. Proyecto afectado: App de Seguros. Fecha: 10/09/2025.\nSíntoma: Servicio se detiene por consumo de memoria. Tecnología involucrada: Node.js.\nCausa raíz: fuga de memoria en un manejador de eventos.\nSolución aplicada: corrección del manejador y reinicio programado.\nResponsable: Óscar Maldonado. Tiempo de resolución: 6 horas.",
+  "incidente": "INC-0699",
+  "proyecto": "P06",
+  "empleado": "EMP-030",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D091",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Node.js para backend – Óscar Maldonado",
+  "texto": "Constancia de participación\nSe hace constar que Óscar Maldonado concluyó satisfactoriamente el curso «Node.js para backend» con una duración de 28 horas y calificación de 88/100, con fecha 16/03/2025. El curso desarrolla: JavaScript. APIs REST y acceso a datos con Node.js.",
+  "empleado": "EMP-030",
+  "curso": "K21",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D092",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Google UX Design Certificate – Mariana Olvera",
+  "texto": "CERTIFICADO\nGoogle hace constar que Mariana Olvera aprobó el examen de la certificación «Google UX Design Certificate». Fecha de obtención: 06/07/2022. Vigencia: sin fecha de vencimiento. Folio TT-392075. La certificación avala conocimientos de Diseño UX/UI.",
+  "empleado": "EMP-011",
+  "certificacion": "C17",
+  "temas": [
+   "Diseño UX/UI"
+  ]
+ },
+ {
+  "id": "D093",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta App de Seguros – 20/04/2025",
+  "texto": "Proyecto: App de Seguros. Fecha: 20/04/2025. Asistentes: Jimena Paredes, Mariana Olvera, Daniela Ibarra, Gabriel Leal.\nTemas tratados: avance del proyecto con Seguros Horizonte, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de MySQL antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre Node.js para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0699 y documentar la solución.",
+  "proyecto": "P06",
+  "temas": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D094",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Cisco CCNA – Sergio Beltrán",
+  "texto": "Constancia de aprobación\nCisco hace constar que Sergio Beltrán aprobó el examen de la certificación «Cisco CCNA». Fecha de obtención: 26/05/2024. Vigencia hasta: 26/05/2027. Folio TT-923267. La certificación avala conocimientos de Redes.",
+  "empleado": "EMP-012",
+  "certificacion": "C06",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D095",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0766",
+  "texto": "TICKET DE INCIDENTE\nINC-0766. Severidad: baja. Proyecto afectado: Sistema de Inventarios. Fecha: 09/04/2025.\nSíntoma: Error ORA-01653 al insertar registros. Tecnología involucrada: Oracle Database.\nCausa raíz: tablespace lleno.\nSolución aplicada: ampliación del tablespace y monitoreo de espacio.\nResponsable: Gabriel Leal. Tiempo de resolución: 2 horas.",
+  "incidente": "INC-0766",
+  "proyecto": "P05",
+  "empleado": "EMP-018",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D096",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Python Básico – Emilio Cantú",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Emilio Cantú concluyó satisfactoriamente el curso «Python Básico» con una duración de 25 horas y calificación de 86/100, con fecha 03/02/2023. El curso desarrolla: Python. Sintaxis, estructuras de datos, funciones y archivos en Python.",
+  "empleado": "EMP-016",
+  "curso": "K04",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D097",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Portal de Autoservicio de Clientes",
+  "texto": "INFORME DE CIERRE DE PROYECTO\nProyecto: Portal de Autoservicio de Clientes. Cliente: Banco Norte (sector financiero). Periodo: 01/09/2025 al 29/04/2026. Estado: en curso.\nTecnologías empleadas: FastAPI, PostgreSQL, React, Azure.\nEquipo: Fernanda Cárdenas (líder de proyecto); Luis Pérez (especialista de datos); Camila Rojas (desarrollador full stack); Andrés Camacho (desarrollador backend); Mariana Olvera (diseñador de interfaces); Héctor Quiroz (arquitecto cloud); Emilio Cantú (desarrollador backend); Gabriel Leal (especialista de datos); Alejandra Rangel (desarrollador backend); Renata Aguirre (diseñador de interfaces); Óscar Maldonado (desarrollador full stack).\nResultados: se entregaron los módulos comprometidos con el cliente Banco Norte, cumpliendo los criterios de aceptación. Incidentes relevantes: ninguno.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante. Se recomienda actualizar los perfiles del equipo con las habilidades aplicadas.",
+  "proyecto": "P10",
+  "temas": [
+   "Bases de datos",
+   "Computación en la nube",
+   "JavaScript",
+   "Python"
+  ]
+ },
+ {
+  "id": "D098",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0876",
+  "texto": "Registro de incidente\nINC-0876. Severidad: media. Proyecto afectado: Sistema de Citas Hospitalarias. Fecha: 23/10/2025.\nSíntoma: Consultas lentas en horario pico. Tecnología involucrada: Postgres.\nCausa raíz: consultas sin índice y bloqueos prolongados.\nSolución aplicada: creación de índices y reescritura de consultas.\nResponsable: Emilio Cantú. Tiempo de resolución: 4 horas.",
+  "incidente": "INC-0876",
+  "proyecto": "P07",
+  "empleado": "EMP-016",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D099",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Administración de PostgreSQL – Gabriel Leal",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Gabriel Leal concluyó satisfactoriamente el curso «Administración de PostgreSQL» con una duración de 40 horas y calificación de 88/100, con fecha 22/01/2024. El curso desarrolla: Bases de datos. Respaldo, replicación, ajuste de rendimiento y seguridad en PostgreSQL.",
+  "empleado": "EMP-018",
+  "curso": "K03",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D100",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Curso SQL Avanzado – Luis Pérez",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Luis Pérez concluyó satisfactoriamente el curso «Curso SQL Avanzado» con una duración de 30 horas y calificación de 92/100, con fecha 25/04/2024. El curso desarrolla: Bases de datos. Optimización de consultas, índices, transacciones y procedimientos almacenados en SQL.",
+  "empleado": "EMP-002",
+  "curso": "K02",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D101",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Plataforma E-commerce Sol – 12/09/2025",
+  "texto": "MINUTA DE REUNIÓN\nProyecto: Plataforma E-commerce Sol. Fecha: 12/09/2025. Asistentes: Regina Treviño, Camila Rojas, Javier Salinas, Mariana Olvera.\nTemas tratados: avance del proyecto con Retail Sol, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de MongoDB antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre React para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0631 y documentar la solución. (5) Renovar las certificaciones próximas a vencer de los integrantes.",
+  "proyecto": "P02",
+  "temas": [
+   "Bases de datos",
+   "Computación en la nube",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D102",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0911",
+  "texto": "Ticket INC-0911. Severidad: alta. Proyecto afectado: Plataforma E-commerce Sol. Fecha: 10/02/2025.\nSíntoma: Latencia alta en consultas de catálogo. Tecnología involucrada: MongoDB.\nCausa raíz: falta de índices compuestos.\nSolución aplicada: creación de índices compuestos.\nResponsable: Sofía Barrera. Tiempo de resolución: 3 horas.",
+  "incidente": "INC-0911",
+  "proyecto": "P02",
+  "empleado": "EMP-019",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D103",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia React desde cero – Mariana Olvera",
+  "texto": "Se hace constar que Mariana Olvera concluyó satisfactoriamente el curso «React desde cero» con una duración de 30 horas y calificación de 99/100, con fecha 21/01/2023. El curso desarrolla: JavaScript. Componentes, estado y consumo de APIs con React.",
+  "empleado": "EMP-011",
+  "curso": "K20",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D104",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia CI/CD con Jenkins – Iván Cavazos",
+  "texto": "Constancia de participación\nSe hace constar que Iván Cavazos concluyó satisfactoriamente el curso «CI/CD con Jenkins» con una duración de 25 horas y calificación de 86/100, con fecha 08/07/2026. El curso desarrolla: DevOps. Pipelines de integración y despliegue continuo con Jenkins.",
+  "empleado": "EMP-022",
+  "curso": "K11",
+  "temas": [
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D105",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Introducción a Machine Learning – Diego Herrera",
+  "texto": "Constancia de participación\nSe hace constar que Diego Herrera concluyó satisfactoriamente el curso «Introducción a Machine Learning» con una duración de 35 horas y calificación de 83/100, con fecha 27/06/2024. El curso desarrolla: Machine Learning. Regresión, clasificación, validación y métricas con scikit-learn.",
+  "empleado": "EMP-004",
+  "curso": "K07",
+  "temas": [
+   "Machine Learning"
+  ]
+ },
+ {
+  "id": "D106",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Docker y contenedores – Javier Salinas",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Javier Salinas concluyó satisfactoriamente el curso «Docker y contenedores» con una duración de 20 horas y calificación de 90/100, con fecha 25/09/2023. El curso desarrolla: DevOps. Imágenes, contenedores, redes y volúmenes con Docker.",
+  "empleado": "EMP-006",
+  "curso": "K10",
+  "temas": [
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D107",
+  "categoria": "Manual o política interna",
+  "titulo": "Política de vigencia y renovación de certificaciones",
+  "texto": "POLÍTICA DE VIGENCIA Y RENOVACIÓN DE CERTIFICACIONES\nLas certificaciones con fecha de vencimiento se consideran evidencia vigente solo hasta esa fecha.\nUna certificación vencida no cuenta como evidencia ni suma puntos en el ranking de especialistas.\nEl sistema genera un aviso 90 días antes del vencimiento para el colaborador y para Recursos Humanos.\nLa empresa apoya la renovación de certificaciones relevantes para los proyectos activos, previa solicitud del jefe directo.",
+  "temas": []
+ },
+ {
+  "id": "D108",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Estadística aplicada a datos – Natalia Fuentes",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Natalia Fuentes concluyó satisfactoriamente el curso «Estadística aplicada a datos» con una duración de 24 horas y calificación de 89/100, con fecha 09/08/2026. El curso desarrolla: Análisis de datos, Machine Learning. Estadística descriptiva e inferencial para análisis y modelos.",
+  "empleado": "EMP-023",
+  "curso": "K24",
+  "temas": [
+   "Análisis de datos",
+   "Machine Learning"
+  ]
+ },
+ {
+  "id": "D109",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Plataforma E-commerce Sol",
+  "texto": "Proyecto: Plataforma E-commerce Sol. Cliente: Retail Sol (sector comercio). Periodo: 04/11/2024 al 02/06/2025. Estado: finalizado.\nTecnologías empleadas: React, Node.js, MongoDB, AWS.\nEquipo: Regina Treviño (líder de proyecto); Camila Rojas (desarrollador full stack); Javier Salinas (ingeniero DevOps); Mariana Olvera (diseñador de interfaces); Héctor Quiroz (arquitecto cloud); Sofía Barrera (desarrollador full stack); Renata Aguirre (diseñador de interfaces); Óscar Maldonado (desarrollador full stack).\nResultados: se entregaron los módulos comprometidos con el cliente Retail Sol, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0631, INC-0844, INC-0911.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P02",
+  "temas": [
+   "Bases de datos",
+   "Computación en la nube",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D110",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Andrés Camacho",
+  "texto": "CURRICULUM VITAE\nAndrés Camacho | Desarrollador/a Java\nMe desempeño en Desarrollo de Software desde 2019. Mis áreas de dominio son Java (nivel 3/5, 5 años), Bases de datos (nivel 3/5, 3 años); trabajo con Postgres, Spring Boot. He obtenido Oracle Certified Professional Java SE. Complete los cursos Java con Spring Boot, SQL desde Cero. He participado en Tablero Analítico de Ventas (desarrollador backend), Sistema de Inventarios (desarrollador backend), Sistema de Citas Hospitalarias (desarrollador backend), Portal de Autoservicio de Clientes (desarrollador backend). Participé en el cierre de proyectos y en sus lecciones aprendidas.",
+  "empleado": "EMP-010",
+  "temas": [
+   "Bases de datos",
+   "Java"
+  ]
+ },
+ {
+  "id": "D111",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Portal Bancario – 08/08/2025",
+  "texto": "Proyecto: Portal Bancario. Fecha: 08/08/2025. Asistentes: Fernanda Cárdenas, Ana Torres, Valeria Montoya, Javier Salinas.\nTemas tratados: avance del proyecto con Banco Norte, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de Django antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre Django para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0457 y documentar la solución. (5) Renovar las certificaciones próximas a vencer de los integrantes.",
+  "proyecto": "P01",
+  "temas": [
+   "Bases de datos",
+   "DevOps",
+   "Python"
+  ]
+ },
+ {
+  "id": "D112",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia React desde cero – Óscar Maldonado",
+  "texto": "Se hace constar que Óscar Maldonado concluyó satisfactoriamente el curso «React desde cero» con una duración de 30 horas y calificación de 97/100, con fecha 01/06/2026. El curso desarrolla: JavaScript. Componentes, estado y consumo de APIs con React.",
+  "empleado": "EMP-030",
+  "curso": "K20",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D113",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Introducción a Machine Learning – Natalia Fuentes",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Natalia Fuentes concluyó satisfactoriamente el curso «Introducción a Machine Learning» con una duración de 35 horas y calificación de 87/100, con fecha 15/09/2026. El curso desarrolla: Machine Learning. Regresión, clasificación, validación y métricas con scikit-learn.",
+  "empleado": "EMP-023",
+  "curso": "K07",
+  "temas": [
+   "Machine Learning"
+  ]
+ },
+ {
+  "id": "D114",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0631",
+  "texto": "Ticket INC-0631. Severidad: media. Proyecto afectado: Plataforma E-commerce Sol. Fecha: 07/05/2025.\nSíntoma: Usuarios sin acceso a archivos en el almacenamiento. Tecnología involucrada: AWS.\nCausa raíz: permisos incorrectos en el bucket S3.\nSolución aplicada: corrección de la política de acceso del bucket.\nResponsable: Héctor Quiroz. Tiempo de resolución: 2 horas.",
+  "incidente": "INC-0631",
+  "proyecto": "P02",
+  "empleado": "EMP-014",
+  "temas": [
+   "Computación en la nube"
+  ]
+ },
+ {
+  "id": "D115",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Fundamentos de AWS – Héctor Quiroz",
+  "texto": "Constancia de participación\nSe hace constar que Héctor Quiroz concluyó satisfactoriamente el curso «Fundamentos de AWS» con una duración de 25 horas y calificación de 85/100, con fecha 19/10/2026. El curso desarrolla: Computación en la nube. Servicios de cómputo, almacenamiento y redes en AWS.",
+  "empleado": "EMP-014",
+  "curso": "K12",
+  "temas": [
+   "Computación en la nube"
+  ]
+ },
+ {
+  "id": "D116",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Sistema de Citas Hospitalarias – 13/03/2025",
+  "texto": "Proyecto: Sistema de Citas Hospitalarias. Fecha: 13/03/2025. Asistentes: Fernanda Cárdenas, Valeria Montoya, Paola Guerrero, Andrés Camacho.\nTemas tratados: avance del proyecto con Hospital Central, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de PostgreSQL antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre Django para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0800 y documentar la solución.",
+  "proyecto": "P07",
+  "temas": [
+   "Bases de datos",
+   "Pruebas de software",
+   "Python"
+  ]
+ },
+ {
+  "id": "D117",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Mauricio Solís",
+  "texto": "CURRICULUM VITAE\nNombre: Mauricio Solís. Puesto actual: Analista de ciberseguridad en Calidad y Seguridad. Ingreso a TalentTech Consulting en 2018.\nResumen: profesional con experiencia en Ciberseguridad (nivel 4/5, 3 años), Redes (nivel 3/5, 4 años).\nTecnologías que utilizo: Wireshark, Splunk.\nCertificaciones: CompTIA Security+.\nFormación continua: Seguridad informática básica, Preparación para CCNA.\nProyectos recientes: Monitoreo de Infraestructura (analista de seguridad).\nDisponibilidad: parcial.",
+  "empleado": "EMP-026",
+  "temas": [
+   "Ciberseguridad",
+   "Redes"
+  ]
+ },
+ {
+  "id": "D118",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Google Data Analytics Certificate – Valeria Montoya",
+  "texto": "Constancia de aprobación\nGoogle hace constar que Valeria Montoya aprobó el examen de la certificación «Google Data Analytics Certificate». Fecha de obtención: 28/10/2026. Vigencia: sin fecha de vencimiento. Folio TT-479201. La certificación avala conocimientos de Análisis de datos.",
+  "empleado": "EMP-003",
+  "certificacion": "C10",
+  "temas": [
+   "Análisis de datos"
+  ]
+ },
+ {
+  "id": "D119",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Modelo de Predicción de Demanda",
+  "texto": "INFORME DE CIERRE DE PROYECTO\nProyecto: Modelo de Predicción de Demanda. Cliente: Grupo Alfa (sector manufactura). Periodo: 16/06/2025 al 13/12/2025. Estado: finalizado.\nTecnologías empleadas: pandas, scikit-learn, TensorFlow.\nEquipo: Regina Treviño (líder de proyecto); Diego Herrera (científico de datos); Natalia Fuentes (científico de datos).\nResultados: se entregaron los módulos comprometidos con el cliente Grupo Alfa, cumpliendo los criterios de aceptación. Incidentes relevantes: ninguno.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P08",
+  "temas": [
+   "Machine Learning",
+   "Python"
+  ]
+ },
+ {
+  "id": "D120",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Héctor Quiroz",
+  "texto": "Perfil profesional\nHéctor Quiroz | Arquitecto/a cloud\nMe desempeño en Infraestructura y Soporte desde 2023. Mis áreas de dominio son cloud (nivel 4/5, 5 años), DevOps (nivel 3/5, 3 años); trabajo con Kubernetes, Azure, AWS. He obtenido AWS Certified Cloud Practitioner. Complete los cursos Fundamentos de AWS. He participado en Plataforma E-commerce Sol (arquitecto cloud), Migración a la Nube (arquitecto cloud), Portal de Autoservicio de Clientes (arquitecto cloud).",
+  "empleado": "EMP-014",
+  "temas": [
+   "Computación en la nube",
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D121",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado PCAP – Certified Associate in Python Programming – Ana Torres",
+  "texto": "CONSTANCIA DE CERTIFICACIÓN\nPython Institute hace constar que Ana Torres aprobó el examen de la certificación «PCAP – Certified Associate in Python Programming». Fecha de obtención: 14/05/2024. Vigencia: sin fecha de vencimiento. Folio TT-198246. La certificación avala conocimientos de Python. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-001",
+  "certificacion": "C01",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D122",
+  "categoria": "Manual o política interna",
+  "titulo": "Manual de uso del directorio ExpertFinder",
+  "texto": "MANUAL DE USO DEL DIRECTORIO EXPERTFINDER\nBuscar especialistas: escriba el requisito en lenguaje natural, por ejemplo «persona con experiencia en Python y bases de datos».\nSubir documentos: cargue un CV, certificado, informe o ticket; el sistema propone su categoría y las entidades detectadas, que usted puede corregir.\nAsistente: formule preguntas sobre procedimientos, incidentes o perfiles; las respuestas incluyen la fuente. Si no hay información suficiente, el asistente lo indicará.\nGrafo: explore las relaciones entre empleados, habilidades, proyectos y documentos.",
+  "temas": []
+ },
+ {
+  "id": "D123",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Modernización de Expedientes",
+  "texto": "Informe final del proyecto\nProyecto: Modernización de Expedientes. Cliente: Secretaría Digital (sector gobierno). Periodo: 06/10/2025 al 03/07/2026. Estado: en curso.\nTecnologías empleadas: Spring Boot, PostgreSQL, Jira.\nEquipo: Regina Treviño (líder de proyecto); Ana Torres (desarrollador backend); Luis Pérez (especialista de datos); Valeria Montoya (analista de datos); Paola Guerrero (ingeniero de calidad); Andrés Camacho (desarrollador backend); Emilio Cantú (desarrollador backend); Rodrigo Elizondo (desarrollador backend); Karla Mendoza (ingeniero de calidad); Alejandra Rangel (desarrollador backend).\nResultados: se entregaron los módulos comprometidos con el cliente Secretaría Digital, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0645, INC-0670, INC-0731.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P11",
+  "temas": [
+   "Bases de datos",
+   "Gestión de proyectos",
+   "Java"
+  ]
+ },
+ {
+  "id": "D124",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Python Intermedio – Emilio Cantú",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Emilio Cantú concluyó satisfactoriamente el curso «Python Intermedio» con una duración de 30 horas y calificación de 99/100, con fecha 19/06/2023. El curso desarrolla: Python. Programación orientada a objetos, módulos, pruebas y entornos virtuales en Python.",
+  "empleado": "EMP-016",
+  "curso": "K05",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D125",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Seguridad informática básica – Mauricio Solís",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Mauricio Solís concluyó satisfactoriamente el curso «Seguridad informática básica» con una duración de 20 horas y calificación de 84/100, con fecha 27/05/2026. El curso desarrolla: Ciberseguridad. Amenazas, controles y buenas prácticas de seguridad.",
+  "empleado": "EMP-026",
+  "curso": "K14",
+  "temas": [
+   "Ciberseguridad"
+  ]
+ },
+ {
+  "id": "D126",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Monitoreo de Infraestructura",
+  "texto": "Cierre de proyecto y lecciones aprendidas\nProyecto: Monitoreo de Infraestructura. Cliente: Telecom Norte (sector telecomunicaciones). Periodo: 04/08/2025 al 01/01/2026. Estado: finalizado.\nTecnologías empleadas: Splunk, Wireshark, Cisco IOS.\nEquipo: Jimena Paredes (líder de proyecto); Ricardo Vela (analista de seguridad); Sergio Beltrán (ingeniero de redes); Daniela Ibarra (analista de soporte); Tomás Ochoa (analista de soporte); Mauricio Solís (analista de seguridad); Pablo Villarreal (ingeniero de redes).\nResultados: se entregaron los módulos comprometidos con el cliente Telecom Norte, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0834.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante. Se recomienda actualizar los perfiles del equipo con las habilidades aplicadas.",
+  "proyecto": "P09",
+  "temas": [
+   "Ciberseguridad",
+   "Redes"
+  ]
+ },
+ {
+  "id": "D127",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Pruebas automatizadas con Selenium – Karla Mendoza",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Karla Mendoza concluyó satisfactoriamente el curso «Pruebas automatizadas con Selenium» con una duración de 25 horas y calificación de 88/100, con fecha 22/08/2026. El curso desarrolla: Pruebas de software. Automatización de pruebas web con Selenium.",
+  "empleado": "EMP-021",
+  "curso": "K18",
+  "temas": [
+   "Pruebas de software"
+  ]
+ },
+ {
+  "id": "D128",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0505",
+  "texto": "TICKET DE INCIDENTE\nINC-0505. Severidad: media. Proyecto afectado: Migración a la Nube. Fecha: 23/03/2025.\nSíntoma: Pods en estado CrashLoopBackOff tras el despliegue. Tecnología involucrada: Kubernetes.\nCausa raíz: variable de entorno faltante en el manifiesto.\nSolución aplicada: corrección del manifiesto y nuevo despliegue.\nResponsable: Iván Cavazos. Tiempo de resolución: 3 horas.",
+  "incidente": "INC-0505",
+  "proyecto": "P04",
+  "empleado": "EMP-022",
+  "temas": [
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D129",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Node.js para backend – Sofía Barrera",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Sofía Barrera concluyó satisfactoriamente el curso «Node.js para backend» con una duración de 28 horas y calificación de 98/100, con fecha 14/06/2025. El curso desarrolla: JavaScript. APIs REST y acceso a datos con Node.js.",
+  "empleado": "EMP-019",
+  "curso": "K21",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D130",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado Certified Kubernetes Administrator (CKA) – Iván Cavazos",
+  "texto": "Constancia de aprobación\nCNCF hace constar que Iván Cavazos aprobó el examen de la certificación «Certified Kubernetes Administrator (CKA)». Fecha de obtención: 20/08/2022. Vigencia hasta: 20/08/2024. Folio TT-991014. La certificación avala conocimientos de DevOps.",
+  "empleado": "EMP-022",
+  "certificacion": "C12",
+  "temas": [
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D131",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Modelo de Predicción de Demanda – 26/04/2025",
+  "texto": "MINUTA DE REUNIÓN\nProyecto: Modelo de Predicción de Demanda. Fecha: 26/04/2025. Asistentes: Regina Treviño, Diego Herrera, Natalia Fuentes.\nTemas tratados: avance del proyecto con Grupo Alfa, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de TensorFlow antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre pandas para el equipo. (4) Renovar las certificaciones próximas a vencer de los integrantes.",
+  "proyecto": "P08",
+  "temas": [
+   "Machine Learning",
+   "Python"
+  ]
+ },
+ {
+  "id": "D132",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0573",
+  "texto": "TICKET DE INCIDENTE\nINC-0573. Severidad: baja. Proyecto afectado: Portal Bancario. Fecha: 02/11/2024.\nSíntoma: Consultas lentas en horario pico. Tecnología involucrada: PostgreSQL.\nCausa raíz: consultas sin índice y bloqueos prolongados.\nSolución aplicada: creación de índices y reescritura de consultas.\nResponsable: Gabriel Leal. Tiempo de resolución: 4 horas.",
+  "incidente": "INC-0573",
+  "proyecto": "P01",
+  "empleado": "EMP-018",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D133",
+  "categoria": "Manual o política interna",
+  "titulo": "Guía de validación de habilidades propuestas",
+  "texto": "GUÍA DE VALIDACIÓN DE HABILIDADES PROPUESTAS\nCuando el sistema extrae habilidades de un documento, estas quedan con estado «propuesto».\nEl colaborador o Recursos Humanos tienen 5 días hábiles para confirmar, corregir o rechazar cada propuesta.\nUna habilidad solo pasa a «comprobada» si cuenta con al menos una evidencia vigente: certificación, proyecto, incidente o capacitación.\nLas habilidades sin evidencia se muestran como «declaradas» y pesan menos en el ranking.",
+  "temas": []
+ },
+ {
+  "id": "D134",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Migración a la Nube – 19/03/2025",
+  "texto": "Minuta de seguimiento\nProyecto: Migración a la Nube. Fecha: 19/03/2025. Asistentes: Fernanda Cárdenas, Javier Salinas, Héctor Quiroz, Iván Cavazos.\nTemas tratados: avance del proyecto con Logística Rápida, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de AWS antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre AWS para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0505 y documentar la solución.",
+  "proyecto": "P04",
+  "temas": [
+   "Computación en la nube",
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D135",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Gestión de proyectos con Jira – Regina Treviño",
+  "texto": "Se hace constar que Regina Treviño concluyó satisfactoriamente el curso «Gestión de proyectos con Jira» con una duración de 12 horas y calificación de 87/100, con fecha 01/07/2024. El curso desarrolla: Gestión de proyectos. Tableros, backlogs y reportes en Jira.",
+  "empleado": "EMP-017",
+  "curso": "K17",
+  "temas": [
+   "Gestión de proyectos"
+  ]
+ },
+ {
+  "id": "D136",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Python Intermedio – Ana Torres",
+  "texto": "Constancia de participación\nSe hace constar que Ana Torres concluyó satisfactoriamente el curso «Python Intermedio» con una duración de 30 horas y calificación de 82/100, con fecha 17/04/2024. El curso desarrolla: Python. Programación orientada a objetos, módulos, pruebas y entornos virtuales en Python.",
+  "empleado": "EMP-001",
+  "curso": "K05",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D137",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Curso SQL Avanzado – Gabriel Leal",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Gabriel Leal concluyó satisfactoriamente el curso «Curso SQL Avanzado» con una duración de 30 horas y calificación de 89/100, con fecha 27/05/2025. El curso desarrolla: Bases de datos. Optimización de consultas, índices, transacciones y procedimientos almacenados en SQL.",
+  "empleado": "EMP-018",
+  "curso": "K02",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D138",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Visualización con Power BI – Lucía Navarro",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Lucía Navarro concluyó satisfactoriamente el curso «Visualización con Power BI» con una duración de 20 horas y calificación de 99/100, con fecha 24/02/2023. El curso desarrolla: Análisis de datos. Tableros, modelos de datos y medidas DAX en Power BI.",
+  "empleado": "EMP-015",
+  "curso": "K09",
+  "temas": [
+   "Análisis de datos"
+  ]
+ },
+ {
+  "id": "D139",
+  "categoria": "Manual o política interna",
+  "titulo": "Política de capacitación",
+  "texto": "POLÍTICA DE CAPACITACIÓN\nCada colaborador dispone de hasta 40 horas de capacitación al año financiadas por la empresa.\nLas solicitudes se presentan a Recursos Humanos con la aprobación del jefe directo.\nSe da prioridad a cursos que fortalezcan habilidades con pocos expertos internos.\nAl concluir el curso, el colaborador carga su constancia para actualizar su perfil.",
+  "temas": []
+ },
+ {
+  "id": "D140",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Karla Mendoza",
+  "texto": "CURRICULUM VITAE\nKarla Mendoza | Ingeniero/a de calidad (QA)\nMe desempeño en Calidad y Seguridad desde 2023. Mis áreas de dominio son Pruebas de software (nivel 3/5, 5 años), Metodologías ágiles (nivel 4/5, 4 años); trabajo con Jira, Selenium. He obtenido ISTQB Certified Tester Foundation Level, Professional Scrum Master I (PSM I). Complete los cursos Pruebas automatizadas con Selenium, Scrum Master. He participado en Sistema de Citas Hospitalarias (ingeniero de calidad), Modernización de Expedientes (ingeniero de calidad).",
+  "empleado": "EMP-021",
+  "temas": [
+   "Gestión de proyectos",
+   "Metodologías ágiles",
+   "Pruebas de software"
+  ]
+ },
+ {
+  "id": "D141",
+  "categoria": "Ticket de incidente",
+  "titulo": "Ticket INC-0670",
+  "texto": "Ticket INC-0670. Severidad: media. Proyecto afectado: Modernización de Expedientes. Fecha: 17/02/2026.\nSíntoma: Caída de BD: la aplicación no responde y se agotan las conexiones. Tecnología involucrada: PostgreSQL.\nCausa raíz: saturación de conexiones.\nSolución aplicada: reconfiguración del pool de conexiones y ajuste de índices.\nResponsable: Emilio Cantú. Tiempo de resolución: 3 horas.",
+  "incidente": "INC-0670",
+  "proyecto": "P11",
+  "empleado": "EMP-016",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D142",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Gestión de proyectos con Jira – Jimena Paredes",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Jimena Paredes concluyó satisfactoriamente el curso «Gestión de proyectos con Jira» con una duración de 12 horas y calificación de 82/100, con fecha 18/10/2024. El curso desarrolla: Gestión de proyectos. Tableros, backlogs y reportes en Jira.",
+  "empleado": "EMP-025",
+  "curso": "K17",
+  "temas": [
+   "Gestión de proyectos"
+  ]
+ },
+ {
+  "id": "D143",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Plataforma de Capacitación en Línea – 04/07/2025",
+  "texto": "Proyecto: Plataforma de Capacitación en Línea. Fecha: 04/07/2025. Asistentes: Jimena Paredes, Ana Torres, Camila Rojas, Daniela Ibarra.\nTemas tratados: avance del proyecto con Universidad Regio, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de Figma antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre MySQL para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0608 y documentar la solución. (5) Renovar las certificaciones próximas a vencer de los integrantes.",
+  "proyecto": "P12",
+  "temas": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "Python"
+  ]
+ },
+ {
+  "id": "D144",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Node.js para backend – Camila Rojas",
+  "texto": "Constancia de participación\nSe hace constar que Camila Rojas concluyó satisfactoriamente el curso «Node.js para backend» con una duración de 28 horas y calificación de 100/100, con fecha 14/10/2025. El curso desarrolla: JavaScript. APIs REST y acceso a datos con Node.js.",
+  "empleado": "EMP-005",
+  "curso": "K21",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D145",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Pablo Villarreal",
+  "texto": "Pablo Villarreal | Ingeniero/a de redes\nMe desempeño en Infraestructura y Soporte desde 2021. Mis áreas de dominio son Redes (nivel 5/5, 5 años); trabajo con Cisco IOS, Wireshark. Complete los cursos Preparación para CCNA. He participado en Monitoreo de Infraestructura (ingeniero de redes).",
+  "empleado": "EMP-028",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D146",
+  "categoria": "Manual o política interna",
+  "titulo": "Catálogo de niveles de habilidad",
+  "texto": "CATÁLOGO DE NIVELES DE HABILIDAD\nNivel 1 Básico: conoce los conceptos y requiere supervisión constante.\nNivel 2 Elemental: realiza tareas sencillas con apoyo ocasional.\nNivel 3 Intermedio: trabaja de forma autónoma en tareas habituales.\nNivel 4 Avanzado: resuelve problemas complejos y orienta a otros.\nNivel 5 Experto: define estándares, diseña soluciones y es referente interno y externo.\nEl nivel declarado debe respaldarse con evidencias para considerarse comprobado.",
+  "temas": []
+ },
+ {
+  "id": "D147",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Natalia Fuentes",
+  "texto": "Perfil profesional\nNatalia Fuentes | Científico/a de datos\nMe desempeño en Datos y Analítica desde 2023. Mis áreas de dominio son Machine Learning (nivel 4/5, 7 años), Python (nivel 3/5, 3 años), Análisis de datos (nivel 4/5, 3 años), Bases de datos (nivel 2/5, 4 años); trabajo con scikit-learn, TensorFlow. He obtenido Machine Learning Specialization. Complete los cursos Introducción a Machine Learning, Estadística aplicada a datos. He participado en Modelo de Predicción de Demanda (científico de datos).",
+  "empleado": "EMP-023",
+  "temas": [
+   "Análisis de datos",
+   "Bases de datos",
+   "Machine Learning",
+   "Python"
+  ]
+ },
+ {
+  "id": "D148",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia SQL desde Cero – Rodrigo Elizondo",
+  "texto": "Constancia de participación\nSe hace constar que Rodrigo Elizondo concluyó satisfactoriamente el curso «SQL desde Cero» con una duración de 20 horas y calificación de 94/100, con fecha 11/07/2025. El curso desarrolla: Bases de datos. Consultas SELECT, filtros, uniones y funciones de agregación con SQL.",
+  "empleado": "EMP-020",
+  "curso": "K01",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D149",
+  "categoria": "Manual o política interna",
+  "titulo": "Política de privacidad y protección de datos personales",
+  "texto": "POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS PERSONALES\nTalentTech Consulting trata los datos personales de sus colaboradores conforme a la LFPDPPP.\nCada colaborador otorga su consentimiento para que su perfil profesional se almacene y consulte en el directorio.\nEl acceso se controla por roles: Recursos Humanos y Dirección ven todos los datos; los líderes de proyecto ven perfiles profesionales; los colaboradores editan solo su propio perfil.\nNo se almacenan datos sensibles como salud, ideología o información financiera personal.\nEl colaborador puede solicitar la corrección o eliminación de su perfil en cualquier momento.",
+  "temas": []
+ },
+ {
+  "id": "D150",
+  "categoria": "Certificado o constancia",
+  "titulo": "Certificado AWS Certified Cloud Practitioner – Héctor Quiroz",
+  "texto": "CONSTANCIA DE CERTIFICACIÓN\nAmazon Web Services hace constar que Héctor Quiroz aprobó el examen de la certificación «AWS Certified Cloud Practitioner». Fecha de obtención: 11/08/2023. Vigencia hasta: 11/08/2026. Folio TT-888387. La certificación avala conocimientos de Computación en la nube. Documento digital emitido por el organismo certificador.",
+  "empleado": "EMP-014",
+  "certificacion": "C03",
+  "temas": [
+   "Computación en la nube"
+  ]
+ },
+ {
+  "id": "D151",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia SQL desde Cero – Emilio Cantú",
+  "texto": "Se hace constar que Emilio Cantú concluyó satisfactoriamente el curso «SQL desde Cero» con una duración de 20 horas y calificación de 83/100, con fecha 05/07/2024. El curso desarrolla: Bases de datos. Consultas SELECT, filtros, uniones y funciones de agregación con SQL.",
+  "empleado": "EMP-016",
+  "curso": "K01",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D152",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Javier Salinas",
+  "texto": "Hoja de vida\nNombre: Javier Salinas. Puesto actual: Ingeniero/a DevOps en Infraestructura y Soporte. Ingreso a TalentTech Consulting en 2021.\nResumen: profesional con experiencia en DevOps (nivel 5/5, 5 años), Computación en la nube (nivel 2/5, 2 años).\nTecnologías que utilizo: AWS, Jenkins, Docker.\nCertificaciones: Certified Kubernetes Administrator (CKA).\nFormación continua: Docker y contenedores.\nProyectos recientes: Portal Bancario (ingeniero DevOps), Plataforma E-commerce Sol (ingeniero DevOps), Migración a la Nube (ingeniero DevOps).\nDisponibilidad: parcial. Participé en el cierre de proyectos y en sus lecciones aprendidas.",
+  "empleado": "EMP-006",
+  "temas": [
+   "Computación en la nube",
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D153",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Portal de Autoservicio de Clientes – 22/06/2025",
+  "texto": "Acta de reunión\nProyecto: Portal de Autoservicio de Clientes. Fecha: 22/06/2025. Asistentes: Fernanda Cárdenas, Luis Pérez, Camila Rojas, Andrés Camacho.\nTemas tratados: avance del proyecto con Banco Norte, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de FastAPI antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre FastAPI para el equipo. (4) Renovar las certificaciones próximas a vencer de los integrantes.",
+  "proyecto": "P10",
+  "temas": [
+   "Bases de datos",
+   "Computación en la nube",
+   "JavaScript",
+   "Python"
+  ]
+ },
+ {
+  "id": "D154",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Óscar Maldonado",
+  "texto": "Óscar Maldonado | Desarrollador/a Full Stack\nMe desempeño en Desarrollo de Software desde 2024. Mis áreas de dominio son JavaScript (nivel 5/5, 4 años), Bases de datos (nivel 3/5, 4 años); trabajo con MySQL, React. Complete los cursos React desde cero, Node.js para backend. He participado en Plataforma E-commerce Sol (desarrollador full stack), App de Seguros (desarrollador full stack), Portal de Autoservicio de Clientes (desarrollador full stack), Plataforma de Capacitación en Línea (desarrollador full stack).",
+  "empleado": "EMP-030",
+  "temas": [
+   "Bases de datos",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D155",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Seguridad informática básica – Sergio Beltrán",
+  "texto": "Se hace constar que Sergio Beltrán concluyó satisfactoriamente el curso «Seguridad informática básica» con una duración de 20 horas y calificación de 91/100, con fecha 07/03/2026. El curso desarrolla: Ciberseguridad. Amenazas, controles y buenas prácticas de seguridad.",
+  "empleado": "EMP-012",
+  "curso": "K14",
+  "temas": [
+   "Ciberseguridad"
+  ]
+ },
+ {
+  "id": "D156",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Python Básico – Alejandra Rangel",
+  "texto": "Constancia de participación\nSe hace constar que Alejandra Rangel concluyó satisfactoriamente el curso «Python Básico» con una duración de 25 horas y calificación de 85/100, con fecha 06/06/2025. El curso desarrolla: Python. Sintaxis, estructuras de datos, funciones y archivos en Python.",
+  "empleado": "EMP-027",
+  "curso": "K04",
+  "temas": [
+   "Python"
+  ]
+ },
+ {
+  "id": "D157",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Visualización con Power BI – Jimena Paredes",
+  "texto": "Constancia de participación\nSe hace constar que Jimena Paredes concluyó satisfactoriamente el curso «Visualización con Power BI» con una duración de 20 horas y calificación de 82/100, con fecha 19/10/2026. El curso desarrolla: Análisis de datos. Tableros, modelos de datos y medidas DAX en Power BI.",
+  "empleado": "EMP-025",
+  "curso": "K09",
+  "temas": [
+   "Análisis de datos"
+  ]
+ },
+ {
+  "id": "D158",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Monitoreo de Infraestructura – 01/05/2025",
+  "texto": "MINUTA DE REUNIÓN\nProyecto: Monitoreo de Infraestructura. Fecha: 01/05/2025. Asistentes: Jimena Paredes, Ricardo Vela, Sergio Beltrán, Daniela Ibarra.\nTemas tratados: avance del proyecto con Telecom Norte, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de Wireshark antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre Cisco IOS para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0834 y documentar la solución.",
+  "proyecto": "P09",
+  "temas": [
+   "Ciberseguridad",
+   "Redes"
+  ]
+ },
+ {
+  "id": "D159",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Preparación para CCNA – Pablo Villarreal",
+  "texto": "Constancia de participación\nSe hace constar que Pablo Villarreal concluyó satisfactoriamente el curso «Preparación para CCNA» con una duración de 40 horas y calificación de 95/100, con fecha 18/06/2023. El curso desarrolla: Redes. Direccionamiento IP, enrutamiento y conmutación.",
+  "empleado": "EMP-028",
+  "curso": "K15",
+  "temas": [
+   "Redes"
+  ]
+ },
+ {
+  "id": "D160",
+  "categoria": "Minuta de reunión",
+  "titulo": "Minuta Plataforma E-commerce Sol – 22/05/2025",
+  "texto": "Proyecto: Plataforma E-commerce Sol. Fecha: 22/05/2025. Asistentes: Regina Treviño, Camila Rojas, Javier Salinas, Mariana Olvera.\nTemas tratados: avance del proyecto con Retail Sol, riesgos y asignación de tareas.\nAcuerdos: (1) Revisar el avance del módulo de React antes del siguiente corte. (2) Actualizar el tablero de seguimiento y los riesgos del proyecto. (3) Programar capacitación breve sobre Node.js para el equipo. (4) Dar seguimiento a la causa raíz del incidente INC-0631 y documentar la solución. (5) Renovar las certificaciones próximas a vencer de los integrantes.",
+  "proyecto": "P02",
+  "temas": [
+   "Bases de datos",
+   "Computación en la nube",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D161",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia Estadística aplicada a datos – Lucía Navarro",
+  "texto": "Se hace constar que Lucía Navarro concluyó satisfactoriamente el curso «Estadística aplicada a datos» con una duración de 24 horas y calificación de 88/100, con fecha 10/05/2024. El curso desarrolla: Análisis de datos, Machine Learning. Estadística descriptiva e inferencial para análisis y modelos.",
+  "empleado": "EMP-015",
+  "curso": "K24",
+  "temas": [
+   "Análisis de datos",
+   "Machine Learning"
+  ]
+ },
+ {
+  "id": "D162",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Rodrigo Elizondo",
+  "texto": "Rodrigo Elizondo | Desarrollador/a Java\nMe desempeño en Desarrollo de Software desde 2020. Mis áreas de dominio son Java (nivel 3/5, 3 años), Bases de datos (nivel 4/5, 5 años); trabajo con Oracle Database, Spring Boot. Complete los cursos Java con Spring Boot, SQL desde Cero. He participado en Sistema de Inventarios (desarrollador backend), Modernización de Expedientes (desarrollador backend). Participé en el cierre de proyectos y en sus lecciones aprendidas.",
+  "empleado": "EMP-020",
+  "temas": [
+   "Bases de datos",
+   "Java"
+  ]
+ },
+ {
+  "id": "D163",
+  "categoria": "Informe de cierre de proyecto",
+  "titulo": "Informe de cierre – Migración a la Nube",
+  "texto": "INFORME DE CIERRE DE PROYECTO\nProyecto: Migración a la Nube. Cliente: Logística Rápida (sector logística). Periodo: 03/02/2025 al 31/10/2025. Estado: finalizado.\nTecnologías empleadas: AWS, Docker, Kubernetes, Jenkins.\nEquipo: Fernanda Cárdenas (líder de proyecto); Javier Salinas (ingeniero DevOps); Héctor Quiroz (arquitecto cloud); Iván Cavazos (ingeniero DevOps).\nResultados: se entregaron los módulos comprometidos con el cliente Logística Rápida, cumpliendo los criterios de aceptación. Incidentes relevantes: INC-0505.\nLecciones aprendidas: documentar decisiones de arquitectura desde el inicio y registrar las habilidades aplicadas por cada integrante.",
+  "proyecto": "P04",
+  "temas": [
+   "Computación en la nube",
+   "DevOps"
+  ]
+ },
+ {
+  "id": "D164",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Camila Rojas",
+  "texto": "CURRICULUM VITAE\nCamila Rojas | Desarrollador/a Full Stack\nMe desempeño en Desarrollo de Software desde 2021. Mis áreas de dominio son JavaScript (nivel 5/5, 7 años), Diseño UX/UI (nivel 4/5, 6 años); trabajo con MySQL, React. Complete los cursos React desde cero, Node.js para backend. He participado en Plataforma E-commerce Sol (desarrollador full stack), Portal de Autoservicio de Clientes (desarrollador full stack), Plataforma de Capacitación en Línea (desarrollador full stack).",
+  "empleado": "EMP-005",
+  "temas": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D165",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia React desde cero – Renata Aguirre",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Renata Aguirre concluyó satisfactoriamente el curso «React desde cero» con una duración de 30 horas y calificación de 99/100, con fecha 26/10/2025. El curso desarrolla: JavaScript. Componentes, estado y consumo de APIs con React.",
+  "empleado": "EMP-029",
+  "curso": "K20",
+  "temas": [
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D166",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Mariana Olvera",
+  "texto": "Perfil profesional\nMariana Olvera | Diseñador/a UX/UI\nMe desempeño en Desarrollo de Software desde 2021. Mis áreas de dominio son Diseño UX/UI (nivel 3/5, 2 años), JavaScript (nivel 3/5, 3 años); trabajo con Figma, React. He obtenido Google UX Design Certificate. Complete los cursos Diseño de interfaces con Figma, React desde cero. He participado en Plataforma E-commerce Sol (diseñador de interfaces), App de Seguros (diseñador de interfaces), Portal de Autoservicio de Clientes (diseñador de interfaces).",
+  "empleado": "EMP-011",
+  "temas": [
+   "Diseño UX/UI",
+   "JavaScript"
+  ]
+ },
+ {
+  "id": "D167",
+  "categoria": "Certificado o constancia",
+  "titulo": "Constancia SQL desde Cero – Tomás Ochoa",
+  "texto": "CONSTANCIA DE CURSO\nSe hace constar que Tomás Ochoa concluyó satisfactoriamente el curso «SQL desde Cero» con una duración de 20 horas y calificación de 95/100, con fecha 27/04/2023. El curso desarrolla: Bases de datos. Consultas SELECT, filtros, uniones y funciones de agregación con SQL.",
+  "empleado": "EMP-024",
+  "curso": "K01",
+  "temas": [
+   "Bases de datos"
+  ]
+ },
+ {
+  "id": "D168",
+  "categoria": "CV o perfil profesional",
+  "titulo": "CV de Sofía Barrera",
+  "texto": "Hoja de vida\nNombre: Sofía Barrera. Puesto actual: Desarrollador/a Full Stack en Desarrollo de Software. Ingreso a TalentTech Consulting en 2021.\nResumen: profesional con experiencia en JS (nivel 4/5, 5 años), bases de datos relacionales (nivel 4/5, 3 años), Diseño UX/UI (nivel 4/5, 3 años).\nTecnologías que utilizo: MongoDB, React.\nCertificaciones: ninguna registrada.\nFormación continua: React desde cero, Node.js para backend, SQL desde Cero.\nProyectos recientes: Plataforma E-commerce Sol (desarrollador full stack), App de Seguros (desarrollador full stack).\nDisponibilidad: disponible.",
+  "empleado": "EMP-019",
+  "temas": [
+   "Bases de datos",
+   "Diseño UX/UI",
+   "JavaScript"
+  ]
+ }
+]
