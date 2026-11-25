@@ -1,0 +1,65 @@
+consulta,tipo,modo,relevantes,devueltos,P_at_5,P_at_10,R_at_10,R_precision
+bases de datos,literal,Palabras clave (exacta),57,10,1.0,1.0,0.1754,0.1754
+bases de datos,literal,Semántica LSA,57,10,1.0,1.0,0.1754,0.1754
+bases de datos,literal,Semántica + ontología,57,10,1.0,1.0,0.1754,0.1754
+bases de datos,literal,Híbrida + ontología,57,10,1.0,1.0,0.1754,0.1754
+Python,literal,Palabras clave (exacta),30,10,1.0,1.0,0.3333,0.3333
+Python,literal,Semántica LSA,30,10,1.0,1.0,0.3333,0.3333
+Python,literal,Semántica + ontología,30,10,1.0,1.0,0.3333,0.3333
+Python,literal,Híbrida + ontología,30,10,1.0,1.0,0.3333,0.3333
+machine learning,literal,Palabras clave (exacta),11,9,1.0,0.9,0.8182,0.8182
+machine learning,literal,Semántica LSA,11,10,1.0,1.0,0.9091,0.9091
+machine learning,literal,Semántica + ontología,11,10,1.0,1.0,0.9091,0.9091
+machine learning,literal,Híbrida + ontología,11,10,1.0,1.0,0.9091,0.9091
+ciberseguridad,literal,Palabras clave (exacta),11,8,1.0,0.8,0.7273,0.7273
+ciberseguridad,literal,Semántica LSA,11,10,1.0,1.0,0.9091,0.9091
+ciberseguridad,literal,Semántica + ontología,11,10,1.0,1.0,0.9091,0.9091
+ciberseguridad,literal,Híbrida + ontología,11,10,1.0,0.9,0.8182,0.8182
+gestión de proyectos,literal,Palabras clave (exacta),10,10,1.0,0.7,0.7,0.7
+gestión de proyectos,literal,Semántica LSA,10,10,1.0,0.7,0.7,0.7
+gestión de proyectos,literal,Semántica + ontología,10,10,1.0,0.7,0.7,0.7
+gestión de proyectos,literal,Híbrida + ontología,10,10,1.0,0.7,0.7,0.7
+pruebas de software,literal,Palabras clave (exacta),9,10,1.0,0.7,0.7778,0.7778
+pruebas de software,literal,Semántica LSA,9,10,1.0,0.7,0.7778,0.7778
+pruebas de software,literal,Semántica + ontología,9,10,1.0,0.8,0.8889,0.7778
+pruebas de software,literal,Híbrida + ontología,9,10,1.0,0.8,0.8889,0.8889
+Java,literal,Palabras clave (exacta),10,5,1.0,0.5,0.5,0.5
+Java,literal,Semántica LSA,10,10,1.0,0.6,0.6,0.6
+Java,literal,Semántica + ontología,10,10,1.0,1.0,1.0,1.0
+Java,literal,Híbrida + ontología,10,10,1.0,1.0,1.0,1.0
+redes,literal,Palabras clave (exacta),15,10,1.0,0.9,0.6,0.6
+redes,literal,Semántica LSA,15,10,1.0,1.0,0.6667,0.6667
+redes,literal,Semántica + ontología,15,10,1.0,1.0,0.6667,0.6667
+redes,literal,Híbrida + ontología,15,10,1.0,1.0,0.6667,0.6667
+quién sabe de SQL y administración de datos,parafraseada,Palabras clave (exacta),57,10,1.0,1.0,0.1754,0.1754
+quién sabe de SQL y administración de datos,parafraseada,Semántica LSA,57,10,1.0,1.0,0.1754,0.1754
+quién sabe de SQL y administración de datos,parafraseada,Semántica + ontología,57,10,1.0,1.0,0.1754,0.1754
+quién sabe de SQL y administración de datos,parafraseada,Híbrida + ontología,57,10,1.0,1.0,0.1754,0.1754
+experiencia con contenedores y despliegue continuo,parafraseada,Palabras clave (exacta),13,7,0.8,0.6,0.4615,0.4615
+experiencia con contenedores y despliegue continuo,parafraseada,Semántica LSA,13,10,1.0,0.6,0.4615,0.4615
+experiencia con contenedores y despliegue continuo,parafraseada,Semántica + ontología,13,10,1.0,1.0,0.7692,0.7692
+experiencia con contenedores y despliegue continuo,parafraseada,Híbrida + ontología,13,10,1.0,1.0,0.7692,0.7692
+especialista en la nube,parafraseada,Palabras clave (exacta),12,9,0.4,0.6,0.5,0.5
+especialista en la nube,parafraseada,Semántica LSA,12,10,0.6,0.6,0.5,0.5
+especialista en la nube,parafraseada,Semántica + ontología,12,10,1.0,0.7,0.5833,0.5833
+especialista en la nube,parafraseada,Híbrida + ontología,12,10,1.0,0.7,0.5833,0.5833
+aprendizaje automático e inteligencia artificial,parafraseada,Palabras clave (exacta),11,0,0.0,0.0,0.0,0.0
+aprendizaje automático e inteligencia artificial,parafraseada,Semántica LSA,11,0,0.0,0.0,0.0,0.0
+aprendizaje automático e inteligencia artificial,parafraseada,Semántica + ontología,11,10,1.0,1.0,0.9091,0.9091
+aprendizaje automático e inteligencia artificial,parafraseada,Híbrida + ontología,11,10,1.0,1.0,0.9091,0.9091
+diseño de interfaces y experiencia de usuario,parafraseada,Palabras clave (exacta),12,10,1.0,0.8,0.6667,0.6667
+diseño de interfaces y experiencia de usuario,parafraseada,Semántica LSA,12,10,1.0,0.8,0.6667,0.6667
+diseño de interfaces y experiencia de usuario,parafraseada,Semántica + ontología,12,10,1.0,0.8,0.6667,0.6667
+diseño de interfaces y experiencia de usuario,parafraseada,Híbrida + ontología,12,10,1.0,0.8,0.6667,0.6667
+desarrollo web front end,parafraseada,Palabras clave (exacta),23,10,0.0,0.2,0.087,0.087
+desarrollo web front end,parafraseada,Semántica LSA,23,10,0.2,0.3,0.1304,0.1304
+desarrollo web front end,parafraseada,Semántica + ontología,23,10,1.0,1.0,0.4348,0.4348
+desarrollo web front end,parafraseada,Híbrida + ontología,23,10,1.0,1.0,0.4348,0.4348
+atención a usuarios y mesa de ayuda,parafraseada,Palabras clave (exacta),7,2,0.2,0.1,0.1429,0.1429
+atención a usuarios y mesa de ayuda,parafraseada,Semántica LSA,7,10,0.2,0.1,0.1429,0.1429
+atención a usuarios y mesa de ayuda,parafraseada,Semántica + ontología,7,10,1.0,0.7,1.0,1.0
+atención a usuarios y mesa de ayuda,parafraseada,Híbrida + ontología,7,10,1.0,0.7,1.0,1.0
+tableros de inteligencia de negocios y analítica,parafraseada,Palabras clave (exacta),18,10,0.4,0.5,0.2778,0.2778
+tableros de inteligencia de negocios y analítica,parafraseada,Semántica LSA,18,10,0.4,0.6,0.3333,0.3333
+tableros de inteligencia de negocios y analítica,parafraseada,Semántica + ontología,18,10,1.0,1.0,0.5556,0.5556
+tableros de inteligencia de negocios y analítica,parafraseada,Híbrida + ontología,18,10,1.0,1.0,0.5556,0.5556

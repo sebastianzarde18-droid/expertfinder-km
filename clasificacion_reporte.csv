@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+CV o perfil profesional,0.9677,1.0,0.9836,30.0
+Certificado o constancia,1.0,1.0,1.0,84.0
+Informe de cierre de proyecto,1.0,1.0,1.0,12.0
+Manual o política interna,1.0,0.8,0.8889,10.0
+Minuta de reunión,1.0,1.0,1.0,14.0
+Ticket de incidente,0.9474,1.0,0.973,18.0
+accuracy,0.9881,0.9881,0.9881,0.9881
+macro avg,0.9859,0.9667,0.9742,168.0
+weighted avg,0.9886,0.9881,0.9876,168.0

@@ -1,0 +1,5 @@
+modo,P_at_5,P_at_10,R_at_10,R_precision
+Palabras clave (exacta),0.7375,0.6438,0.434,0.434
+Semántica LSA,0.775,0.6875,0.4676,0.4676
+Semántica + ontología,1.0,0.9188,0.6673,0.6603
+Híbrida + ontología,1.0,0.9125,0.6616,0.6616
