@@ -1,0 +1,7 @@
+tipo,metodo,p5,r5,primero_relevante
+literal,hibrida,0.667,0.667,1.0
+literal,palabras,0.733,0.733,1.0
+literal,semantica,0.633,0.633,1.0
+parafrasis,hibrida,0.55,0.55,0.75
+parafrasis,palabras,0.575,0.575,0.875
+parafrasis,semantica,0.525,0.525,0.625

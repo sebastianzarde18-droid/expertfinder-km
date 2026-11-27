@@ -1,0 +1,53 @@
+{
+ "clasificacion": {
+  "n": 30,
+  "exactitud": 0.567,
+  "precision_macro": 0.574,
+  "recall_macro": 0.567,
+  "f1_macro": 0.569
+ },
+ "recuperacion": [
+  {
+   "tipo": "literal",
+   "metodo": "hibrida",
+   "p5": 0.667,
+   "r5": 0.667,
+   "primero_relevante": 1.0
+  },
+  {
+   "tipo": "literal",
+   "metodo": "palabras",
+   "p5": 0.733,
+   "r5": 0.733,
+   "primero_relevante": 1.0
+  },
+  {
+   "tipo": "literal",
+   "metodo": "semantica",
+   "p5": 0.633,
+   "r5": 0.633,
+   "primero_relevante": 1.0
+  },
+  {
+   "tipo": "parafrasis",
+   "metodo": "hibrida",
+   "p5": 0.55,
+   "r5": 0.55,
+   "primero_relevante": 0.75
+  },
+  {
+   "tipo": "parafrasis",
+   "metodo": "palabras",
+   "p5": 0.575,
+   "r5": 0.575,
+   "primero_relevante": 0.875
+  },
+  {
+   "tipo": "parafrasis",
+   "metodo": "semantica",
+   "p5": 0.525,
+   "r5": 0.525,
+   "primero_relevante": 0.625
+  }
+ ]
+}

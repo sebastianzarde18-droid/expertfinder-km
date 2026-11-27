@@ -1,0 +1,182 @@
+[
+ {
+  "id": "J01",
+  "tema": "arrendamiento",
+  "tipo": "Contrato o cláusula",
+  "texto": "CONTRATO DE ARRENDAMIENTO. Que celebran, por una parte, la arrendadora y, por la otra, el arrendatario, respecto de un local comercial. PRIMERA. La renta mensual será pagadera dentro de los primeros cinco días de cada mes. SEGUNDA. El plazo forzoso es de doce meses, prorrogable por acuerdo escrito. TERCERA. El arrendatario no podrá subarrendar sin consentimiento expreso."
+ },
+ {
+  "id": "J02",
+  "tema": "arrendamiento",
+  "tipo": "Escrito ante autoridad",
+  "texto": "Escrito inicial. Comparece el arrendador a demandar la desocupación del inmueble por falta de pago de tres mensualidades de renta. Se acompaña el contrato y los recibos exhibidos. Se solicita además el pago de las rentas vencidas y de las que se sigan venciendo hasta la entrega de la localidad, con los intereses pactados."
+ },
+ {
+  "id": "J03",
+  "tema": "arrendamiento",
+  "tipo": "Resumen de sentencia",
+  "texto": "Resumen didáctico de una sentencia sobre arrendamiento: el tribunal consideró que el inquilino que deja de pagar la renta incurre en causa de rescisión. Aunque alegó que el inmueble tenía humedad, no demostró haber avisado al propietario, por lo que se ordenó la desocupación y el pago de lo adeudado."
+ },
+ {
+  "id": "J04",
+  "tema": "arrendamiento",
+  "tipo": "Nota doctrinal",
+  "texto": "En la doctrina civil, el arrendamiento se entiende como un contrato por el cual una parte concede el uso o goce temporal de una cosa a cambio de un precio cierto. Se discute si el derecho del arrendatario es personal o tiene efectos reales cuando el contrato se inscribe en el registro público."
+ },
+ {
+  "id": "J05",
+  "tema": "arrendamiento",
+  "tipo": "Dictamen u opinión",
+  "texto": "Dictamen. Se nos consulta si es válido el aumento unilateral de la renta a mitad del plazo forzoso. Nuestra opinión es que no, salvo que el contrato lo prevea con una fórmula objetiva. Recomendamos notificar por escrito la negativa y conservar la evidencia de los pagos realizados."
+ },
+ {
+  "id": "J06",
+  "tema": "despido",
+  "tipo": "Contrato o cláusula",
+  "texto": "CONTRATO INDIVIDUAL DE TRABAJO por tiempo indeterminado. El trabajador prestará servicios como analista, con jornada diurna de ocho horas. El patrón pagará el salario por quincena y otorgará las prestaciones de ley. Las partes pactan un periodo de prueba de treinta días y la obligación de confidencialidad durante y después de la relación laboral."
+ },
+ {
+  "id": "J07",
+  "tema": "despido",
+  "tipo": "Escrito ante autoridad",
+  "texto": "El actor reclama la indemnización constitucional por despido injustificado ocurrido el día de su regreso de vacaciones, cuando se le impidió el acceso al centro de trabajo. Ofrece como pruebas los mensajes del supervisor, la credencial y la testimonial de dos compañeros. Solicita salarios caídos y prima de antigüedad."
+ },
+ {
+  "id": "J08",
+  "tema": "despido",
+  "tipo": "Resumen de sentencia",
+  "texto": "Resumen de un caso laboral con fines de estudio: la empresa afirmó que el empleado abandonó el puesto, pero no acreditó haberlo citado ni levantado acta alguna. Al corresponderle la carga de la prueba, el tribunal declaró injustificada la terminación y condenó a pagar indemnización y salarios vencidos."
+ },
+ {
+  "id": "J09",
+  "tema": "despido",
+  "tipo": "Nota doctrinal",
+  "texto": "El despido es la ruptura unilateral de la relación laboral por decisión del patrón. La doctrina distingue entre la rescisión con causa justificada, que exige aviso por escrito, y el despido sin causa, que genera el derecho a elegir entre reinstalación e indemnización."
+ },
+ {
+  "id": "J10",
+  "tema": "despido",
+  "tipo": "Dictamen u opinión",
+  "texto": "Opinión jurídica. La empresa consulta cómo terminar la relación con un empleado que faltó cuatro días consecutivos. Sugerimos reunir las constancias de asistencia, levantar un acta con testigos y entregar el aviso de rescisión dentro del plazo legal, pues el retraso podría volver injustificada la separación."
+ },
+ {
+  "id": "J11",
+  "tema": "datos",
+  "tipo": "Contrato o cláusula",
+  "texto": "AVISO Y CLÁUSULA DE PRIVACIDAD. El responsable tratará los datos personales del cliente únicamente para prestar el servicio contratado. El titular podrá ejercer sus derechos de acceso, rectificación, cancelación y oposición escribiendo al correo indicado. No se transferirán datos a terceros sin consentimiento, salvo requerimiento de autoridad."
+ },
+ {
+  "id": "J12",
+  "tema": "datos",
+  "tipo": "Escrito ante autoridad",
+  "texto": "Solicitud de ejercicio de derechos. La suscrita pide a la tienda en línea que le informe qué datos suyos conserva, con qué finalidad y a quién los ha compartido, y que elimine su historial de compras por haber retirado su consentimiento. Anexa copia de su identificación para acreditar su identidad."
+ },
+ {
+  "id": "J13",
+  "tema": "datos",
+  "tipo": "Resumen de sentencia",
+  "texto": "Resumen para clase de un asunto sobre privacidad: una academia publicó las calificaciones de sus alumnos con nombre completo. La autoridad estimó que se trataba de datos personales difundidos sin consentimiento ni aviso, e impuso una sanción y la obligación de retirar la lista."
+ },
+ {
+  "id": "J14",
+  "tema": "datos",
+  "tipo": "Nota doctrinal",
+  "texto": "La protección de datos personales parte de la autodeterminación informativa: cada persona decide quién usa su información y para qué. Los principios habituales son licitud, consentimiento, finalidad, proporcionalidad, calidad, lealtad, información y responsabilidad del tratamiento."
+ },
+ {
+  "id": "J15",
+  "tema": "datos",
+  "tipo": "Dictamen u opinión",
+  "texto": "Dictamen. Una clínica pregunta si puede enviar publicidad a pacientes con la información de su expediente. Concluimos que no: el uso para mercadotecnia es una finalidad distinta y requiere consentimiento específico. Además, los datos de salud son sensibles y exigen medidas reforzadas de seguridad."
+ },
+ {
+  "id": "J16",
+  "tema": "autor",
+  "tipo": "Contrato o cláusula",
+  "texto": "CONTRATO DE CESIÓN DE DERECHOS PATRIMONIALES. El autor cede a la editorial, por cinco años y para territorio nacional, los derechos de reproducción y distribución de su obra. Conserva los derechos morales. La editorial pagará regalías del diez por ciento sobre el precio de venta al público y rendirá cuentas cada semestre."
+ },
+ {
+  "id": "J17",
+  "tema": "autor",
+  "tipo": "Escrito ante autoridad",
+  "texto": "Demanda por infracción de derechos de autor. El demandante sostiene que la demandada copió sin licencia las fotografías de su catálogo y las usó en su sitio de ventas. Pide el retiro del material, una indemnización por daños y la publicación de la sentencia como medida de reparación."
+ },
+ {
+  "id": "J18",
+  "tema": "autor",
+  "tipo": "Resumen de sentencia",
+  "texto": "Resumen didáctico: un diseñador denunció que una empresa reprodujo su ilustración en playeras. El juzgador verificó que la obra era original y que no existía licencia, por lo que condenó a retirar los productos y a indemnizar. Aclaró que la idea no se protege, solo su expresión."
+ },
+ {
+  "id": "J19",
+  "tema": "autor",
+  "tipo": "Nota doctrinal",
+  "texto": "El derecho de autor protege las obras originales desde su fijación en un soporte, sin necesidad de registro. Se compone de derechos morales, inalienables y perpetuos, y de derechos patrimoniales, que pueden transmitirse y duran un plazo limitado después de la muerte del autor."
+ },
+ {
+  "id": "J20",
+  "tema": "autor",
+  "tipo": "Dictamen u opinión",
+  "texto": "Opinión. Una startup quiere usar música de un catálogo en sus videos promocionales. Advertimos que se requiere licencia para sincronizar la obra y otra para el fonograma. Recomendamos contratar un catálogo con licencia comercial y conservar el comprobante de cada autorización."
+ },
+ {
+  "id": "J21",
+  "tema": "prescripcion",
+  "tipo": "Contrato o cláusula",
+  "texto": "CONVENIO DE RECONOCIMIENTO DE ADEUDO. El deudor reconoce deber una suma por servicios prestados y se obliga a liquidarla en seis parcialidades. Las partes acuerdan que este reconocimiento interrumpe el plazo para reclamar el pago y que el acreedor no renuncia a ninguna acción por incumplimiento."
+ },
+ {
+  "id": "J22",
+  "tema": "prescripcion",
+  "tipo": "Escrito ante autoridad",
+  "texto": "Contestación. Se opone la excepción de prescripción, pues el actor reclama una deuda exigible hace más de diez años sin que haya existido requerimiento, reconocimiento ni demanda que interrumpiera el transcurso del tiempo. Pedimos que se declare extinguida la acción y se absuelva al demandado."
+ },
+ {
+  "id": "J23",
+  "tema": "prescripcion",
+  "tipo": "Resumen de sentencia",
+  "texto": "Resumen de una resolución con fines académicos: el acreedor presentó su demanda después de vencido el término. El tribunal explicó que la prescripción no extingue la deuda sino la posibilidad de exigirla en juicio, y que debe ser opuesta por el demandado, pues el juez no la aplica de oficio."
+ },
+ {
+  "id": "J24",
+  "tema": "prescripcion",
+  "tipo": "Nota doctrinal",
+  "texto": "La prescripción negativa es el medio de liberarse de una obligación por el simple transcurso del tiempo. Se justifica por la seguridad jurídica y la sanción a la inactividad del acreedor. El plazo se interrumpe con la demanda o con el reconocimiento de la deuda."
+ },
+ {
+  "id": "J25",
+  "tema": "prescripcion",
+  "tipo": "Dictamen u opinión",
+  "texto": "Dictamen. Se nos pregunta si aún se puede cobrar una factura de hace siete años. Revisamos el plazo aplicable y la existencia de actos interruptores. Si no hubo reclamo ni reconocimiento, la acción podría estar prescrita; conviene buscar correos o pagos parciales que prueben una interrupción."
+ },
+ {
+  "id": "J26",
+  "tema": "responsabilidad",
+  "tipo": "Contrato o cláusula",
+  "texto": "CONTRATO DE SEGURO DE RESPONSABILIDAD CIVIL. La aseguradora se obliga a pagar los daños que el asegurado cause a terceros en el ejercicio de su actividad, hasta la suma asegurada. Quedan excluidos los daños dolosos. El asegurado debe avisar del siniestro dentro de cinco días y no reconocer responsabilidad sin autorización."
+ },
+ {
+  "id": "J27",
+  "tema": "responsabilidad",
+  "tipo": "Escrito ante autoridad",
+  "texto": "Demanda por daños y perjuicios. El actor sufrió lesiones al caer en un establecimiento cuyo piso mojado no tenía señalización. Atribuye la responsabilidad al propietario por negligencia y solicita el pago de gastos médicos, de la incapacidad temporal y del daño moral que dice haber padecido."
+ },
+ {
+  "id": "J28",
+  "tema": "responsabilidad",
+  "tipo": "Resumen de sentencia",
+  "texto": "Resumen didáctico: el conductor de un camión chocó contra un vehículo estacionado. Se acreditó la culpa por exceso de velocidad y el tribunal condenó a reparar el daño. También declaró responsable a la empresa dueña del camión por los actos de su empleado durante el servicio."
+ },
+ {
+  "id": "J29",
+  "tema": "responsabilidad",
+  "tipo": "Nota doctrinal",
+  "texto": "Para que surja la responsabilidad civil extracontractual se requieren un hecho ilícito, un daño, la culpa o el riesgo creado y el nexo causal entre ambos. La reparación busca regresar a la víctima, en lo posible, a la situación anterior mediante una indemnización."
+ },
+ {
+  "id": "J30",
+  "tema": "responsabilidad",
+  "tipo": "Dictamen u opinión",
+  "texto": "Opinión jurídica. Un gimnasio consulta si responde por la lesión de un socio durante una clase. Señalamos que depende de si hubo negligencia en el mantenimiento o la supervisión. Recomendamos contar con reglamento, cartas de aceptación de riesgos y un seguro vigente."
+ }
+]

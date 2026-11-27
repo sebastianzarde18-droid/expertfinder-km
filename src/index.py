@@ -18,6 +18,7 @@ from sklearn.preprocessing import normalize as l2
 
 from .nlp import normalizar, tokens_contenido
 from .ontology import HABILIDADES, TECNOLOGIAS
+from .lexico import ampliar, equivalentes
 
 MODELO_ST = "paraphrase-multilingual-MiniLM-L12-v2"
 
@@ -97,6 +98,7 @@ def expandir_consulta(consulta: str, extractor) -> str:
         elif e.tipo == "tecnologia":
             h = TECNOLOGIAS[e.canonico][0]
             extras += [e.canonico, h] + TECNOLOGIAS[e.canonico][2]
+    extras += ampliar(consulta)  # paráfrasis del léxico del dominio
     return consulta + " " + " ".join(dict.fromkeys(extras))
 
 
@@ -167,7 +169,7 @@ class Repositorio:
             if t in cubiertos:
                 continue
             items.append(t)
-            if _stem(t) not in ctx_stems:
+            if not any(_stem(q) in ctx_stems for q in equivalentes(t)):
                 faltan.append(t)
         if not items:
             return 0.0, []

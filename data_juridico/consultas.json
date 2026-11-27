@@ -1,0 +1,72 @@
+[
+ {
+  "consulta": "contrato de renta de un local",
+  "tema": "arrendamiento",
+  "tipo": "literal"
+ },
+ {
+  "consulta": "indemnización por despido injustificado",
+  "tema": "despido",
+  "tipo": "literal"
+ },
+ {
+  "consulta": "derechos ARCO y consentimiento del titular de datos personales",
+  "tema": "datos",
+  "tipo": "literal"
+ },
+ {
+  "consulta": "cesión de derechos de autor a una editorial",
+  "tema": "autor",
+  "tipo": "literal"
+ },
+ {
+  "consulta": "excepción de prescripción de una deuda",
+  "tema": "prescripcion",
+  "tipo": "literal"
+ },
+ {
+  "consulta": "responsabilidad civil por daños a terceros",
+  "tema": "responsabilidad",
+  "tipo": "literal"
+ },
+ {
+  "consulta": "el inquilino ya no paga y el dueño quiere recuperar su propiedad",
+  "tema": "arrendamiento",
+  "tipo": "parafrasis"
+ },
+ {
+  "consulta": "me corrieron del trabajo sin motivo, qué puedo reclamar",
+  "tema": "despido",
+  "tipo": "parafrasis"
+ },
+ {
+  "consulta": "una empresa usó mi información privada sin mi permiso",
+  "tema": "datos",
+  "tipo": "parafrasis"
+ },
+ {
+  "consulta": "alguien copió mi obra creativa y la vendió",
+  "tema": "autor",
+  "tipo": "parafrasis"
+ },
+ {
+  "consulta": "ya pasó mucho tiempo y el acreedor no cobró",
+  "tema": "prescripcion",
+  "tipo": "parafrasis"
+ },
+ {
+  "consulta": "alguien se lastimó por culpa del dueño del local y pide que le paguen",
+  "tema": "responsabilidad",
+  "tipo": "parafrasis"
+ },
+ {
+  "consulta": "¿puede subir el precio de la renta el casero en pleno contrato?",
+  "tema": "arrendamiento",
+  "tipo": "parafrasis"
+ },
+ {
+  "consulta": "¿qué pasa si el patrón no prueba que el empleado abandonó el empleo?",
+  "tema": "despido",
+  "tipo": "parafrasis"
+ }
+]

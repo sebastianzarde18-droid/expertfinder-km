@@ -1,0 +1,28 @@
+{
+ "extractivo_dev": {
+  "n": 15,
+  "correctas": 7,
+  "de_con_respuesta": 10,
+  "exactitud_con_respuesta": 0.7,
+  "falsos_rechazos": 3,
+  "incorrectas": 0,
+  "rechazos_correctos": 5,
+  "de_sin_respuesta": 5,
+  "inventadas": 0,
+  "fundamentadas": 7,
+  "ms": 18.1
+ },
+ "extractivo_test": {
+  "n": 15,
+  "correctas": 4,
+  "de_con_respuesta": 10,
+  "exactitud_con_respuesta": 0.4,
+  "falsos_rechazos": 5,
+  "incorrectas": 1,
+  "rechazos_correctos": 5,
+  "de_sin_respuesta": 5,
+  "inventadas": 0,
+  "fundamentadas": 4,
+  "ms": 16.9
+ }
+}

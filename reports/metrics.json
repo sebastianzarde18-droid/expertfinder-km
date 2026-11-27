@@ -4,7 +4,7 @@
   "relaciones": 1277,
   "documentos": 168,
   "empleados": 30,
-  "tiempo_carga_s": 0.39,
+  "tiempo_carga_s": 0.41,
   "embeddings": "LSA (TF-IDF + SVD)",
   "fragmentos": 223
  },
@@ -120,8 +120,8 @@
  "expertos": {
   "P_at_3": 0.8056,
   "cobertura_R10": 0.9667,
-  "tiempo_ms_promedio": 1.93,
-  "tiempo_ms_max": 3.74,
+  "tiempo_ms_promedio": 2.73,
+  "tiempo_ms_max": 5.77,
   "n_consultas": 12,
   "consultas_sin_resultado": 0
  },
@@ -175,7 +175,7 @@
   "porcentaje_respuestas_correctas": 0.9474,
   "falsos_rechazos": 1,
   "respuestas_inventadas": 0,
-  "tiempo_ms_promedio": 7.0,
+  "tiempo_ms_promedio": 14.7,
   "modo": "Extractivo (sin LLM): respuesta compuesta con hechos y fragmentos citados",
   "dev_mejor_config": {
    "umbral_puntaje": 0.1,
@@ -188,5 +188,5 @@
   "total": 11,
   "cumplen": 10
  },
- "tiempo_evaluacion_s": 3.0
+ "tiempo_evaluacion_s": 7.0
 }

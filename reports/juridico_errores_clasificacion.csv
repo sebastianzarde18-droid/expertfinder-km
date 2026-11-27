@@ -1,0 +1,14 @@
+id,real,predicho
+J02,Escrito ante autoridad,Contrato o cláusula
+J03,Resumen de sentencia,Escrito ante autoridad
+J06,Contrato o cláusula,Nota doctrinal
+J10,Dictamen u opinión,Nota doctrinal
+J11,Contrato o cláusula,Resumen de sentencia
+J13,Resumen de sentencia,Contrato o cláusula
+J14,Nota doctrinal,Contrato o cláusula
+J16,Contrato o cláusula,Escrito ante autoridad
+J19,Nota doctrinal,Contrato o cláusula
+J20,Dictamen u opinión,Resumen de sentencia
+J21,Contrato o cláusula,Nota doctrinal
+J22,Escrito ante autoridad,Resumen de sentencia
+J24,Nota doctrinal,Dictamen u opinión

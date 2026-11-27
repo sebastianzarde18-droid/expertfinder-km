@@ -1,0 +1,43 @@
+consulta,tipo,metodo,p5,r5,primero_relevante
+contrato de renta de un local,literal,palabras,1.0,1.0,True
+contrato de renta de un local,literal,semantica,0.6,0.6,True
+contrato de renta de un local,literal,hibrida,0.6,0.6,True
+indemnización por despido injustificado,literal,palabras,0.6,0.6,True
+indemnización por despido injustificado,literal,semantica,0.6,0.6,True
+indemnización por despido injustificado,literal,hibrida,0.6,0.6,True
+derechos ARCO y consentimiento del titular de datos personales,literal,palabras,1.0,1.0,True
+derechos ARCO y consentimiento del titular de datos personales,literal,semantica,0.8,0.8,True
+derechos ARCO y consentimiento del titular de datos personales,literal,hibrida,1.0,1.0,True
+cesión de derechos de autor a una editorial,literal,palabras,0.6,0.6,True
+cesión de derechos de autor a una editorial,literal,semantica,0.6,0.6,True
+cesión de derechos de autor a una editorial,literal,hibrida,0.6,0.6,True
+excepción de prescripción de una deuda,literal,palabras,0.6,0.6,True
+excepción de prescripción de una deuda,literal,semantica,0.6,0.6,True
+excepción de prescripción de una deuda,literal,hibrida,0.6,0.6,True
+responsabilidad civil por daños a terceros,literal,palabras,0.6,0.6,True
+responsabilidad civil por daños a terceros,literal,semantica,0.6,0.6,True
+responsabilidad civil por daños a terceros,literal,hibrida,0.6,0.6,True
+el inquilino ya no paga y el dueño quiere recuperar su propiedad,parafrasis,palabras,0.2,0.2,True
+el inquilino ya no paga y el dueño quiere recuperar su propiedad,parafrasis,semantica,0.2,0.2,True
+el inquilino ya no paga y el dueño quiere recuperar su propiedad,parafrasis,hibrida,0.2,0.2,True
+"me corrieron del trabajo sin motivo, qué puedo reclamar",parafrasis,palabras,0.4,0.4,True
+"me corrieron del trabajo sin motivo, qué puedo reclamar",parafrasis,semantica,0.6,0.6,False
+"me corrieron del trabajo sin motivo, qué puedo reclamar",parafrasis,hibrida,0.4,0.4,True
+una empresa usó mi información privada sin mi permiso,parafrasis,palabras,0.4,0.4,True
+una empresa usó mi información privada sin mi permiso,parafrasis,semantica,0.4,0.4,True
+una empresa usó mi información privada sin mi permiso,parafrasis,hibrida,0.6,0.6,True
+alguien copió mi obra creativa y la vendió,parafrasis,palabras,0.8,0.8,True
+alguien copió mi obra creativa y la vendió,parafrasis,semantica,0.8,0.8,True
+alguien copió mi obra creativa y la vendió,parafrasis,hibrida,0.8,0.8,True
+ya pasó mucho tiempo y el acreedor no cobró,parafrasis,palabras,0.8,0.8,True
+ya pasó mucho tiempo y el acreedor no cobró,parafrasis,semantica,0.8,0.8,True
+ya pasó mucho tiempo y el acreedor no cobró,parafrasis,hibrida,0.8,0.8,True
+alguien se lastimó por culpa del dueño del local y pide que le paguen,parafrasis,palabras,0.4,0.4,False
+alguien se lastimó por culpa del dueño del local y pide que le paguen,parafrasis,semantica,0.2,0.2,False
+alguien se lastimó por culpa del dueño del local y pide que le paguen,parafrasis,hibrida,0.2,0.2,False
+¿puede subir el precio de la renta el casero en pleno contrato?,parafrasis,palabras,0.8,0.8,True
+¿puede subir el precio de la renta el casero en pleno contrato?,parafrasis,semantica,0.8,0.8,False
+¿puede subir el precio de la renta el casero en pleno contrato?,parafrasis,hibrida,0.8,0.8,False
+¿qué pasa si el patrón no prueba que el empleado abandonó el empleo?,parafrasis,palabras,0.8,0.8,True
+¿qué pasa si el patrón no prueba que el empleado abandonó el empleo?,parafrasis,semantica,0.4,0.4,True
+¿qué pasa si el patrón no prueba que el empleado abandonó el empleo?,parafrasis,hibrida,0.6,0.6,True

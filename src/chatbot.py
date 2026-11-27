@@ -20,7 +20,7 @@ UMBRAL_COBERTURA = 0.65
 MENSAJE_SIN_INFO = ("No encontré información suficiente en la base de conocimiento para responder esa pregunta, "
                     "así que prefiero no inventar una respuesta. Puede reformularla o consultar con Recursos Humanos.")
 
-NO_ALMACENADOS = {"salario", "sueldo", "nomina", "edad", "domicilio", "telefono", "celular", "curp", "rfc", "enfermedad", "religion"}
+NO_ALMACENADOS = {"salario", "sueldo", "nomina", "edad", "domicilio", "telefono", "celular", "curp", "rfc", "enfermedad", "religion", "gana", "ganan", "gane", "paga", "pagan"}
 
 PROMPT_SISTEMA = """Eres el asistente de conocimiento de TalentTech Consulting. Responde en español, de forma breve y clara,
 usando EXCLUSIVAMENTE el CONTEXTO proporcionado. Cita cada afirmación con la fuente entre corchetes, por ejemplo [D012].
@@ -73,7 +73,7 @@ class Asistente:
                 hechos.append(dict(texto=f"Proyecto {p.nombre} para {p.cliente} ({p.estado}); tecnologías: {p.tecnologias.replace('|', ', ')}; equipo: {'; '.join(eq)}.",
                                    fuente=kb.doc_de(proyecto=p.id, categoria="Informe de cierre de proyecto") or "grafo", tipo="proyecto"))
         pide_incidente = any(w in qn for w in ("incidente", "incidentes", "ticket", "falla", "caida", "error", "resolvio", "solucion", "resolver"))
-        pide_quien = bool(re.search(r"\b(quien|quienes|especialista|especialistas|experto|expertos|perfil|persona|candidato)\b", qn))
+        pide_quien = bool(re.search(r"\b(quien|quienes|especialista|especialistas|experto|expertos|perfil|persona|personas|candidato|dominan|domina|sabe|saben)\b", qn))
         habs = [e for e in ents if e.tipo in ("habilidad", "tecnologia")]
         if habs and pide_incidente and not any(h["tipo"] == "incidente" for h in hechos):
             for e in habs[:1]:
@@ -98,11 +98,15 @@ class Asistente:
                         respuesta="Ese dato personal no se almacena en el directorio, por lo que no puedo responderlo. "
                                   "ExpertFinder solo guarda información profesional y la protege según la política de privacidad" + cita + ".")
         hechos = self._hechos(pregunta)
-        frags = self.repo.buscar_fragmentos(pregunta, k=k, modo="hibrida", expandir=True)
+        frags = self._reordenar(pregunta, self.repo.buscar_fragmentos(pregunta, k=max(k, 8), modo="hibrida", expandir=True))[:k]
         mejor = frags[0]["puntaje"] if frags else 0.0
-        contexto = " ".join(f["titulo"] + " " + f["fragmento"] for f in frags[:2])
+        contexto = frags[0]["titulo"] + " " + frags[0]["fragmento"] if frags else ""
         cobertura, desconocidos = self.repo.soporte(pregunta, contexto) if frags else (0.0, [])
-        suficiente = bool(hechos) or (mejor >= UMBRAL_PUNTAJE and cobertura >= UMBRAL_COBERTURA)
+        # un nombre propio de la pregunta (p. ej. un cliente) que no aparece en el contexto invalida la respuesta
+        palabras = re.findall(r"[\wáéíóúñÁÉÍÓÚ-]+", pregunta)[1:]  # se omite la primera palabra (mayúscula por ser inicio)
+        propios = {normalizar(w) for w in palabras if w[0].isupper() and len(w) > 2}
+        falta_propio = bool(propios & set(desconocidos))
+        suficiente = bool(hechos) or (mejor >= UMBRAL_PUNTAJE and cobertura >= UMBRAL_COBERTURA and not falta_propio)
         base = dict(pregunta=pregunta, hechos=hechos, fragmentos=frags, mejor_puntaje=round(mejor, 3),
                     cobertura_terminos=round(cobertura, 2), terminos_desconocidos=desconocidos, modo=self.modo)
         if not suficiente:
@@ -118,6 +122,13 @@ class Asistente:
             respuesta = self._extractiva(pregunta, hechos, frags)
         fuentes = sorted(set(re.findall(r"\[(D\d{3})\]", respuesta)))
         return dict(base, respuesta=respuesta, fuentes=fuentes, fundamentada=bool(fuentes), suficiente=True, usado_llm=usado_llm)
+
+    def _reordenar(self, pregunta, frags):
+        """Reordena los candidatos por cuánto de la pregunta cubre cada fragmento (apoyo léxico + ontología),
+        además de su similitud; el mejor fragmento es el que decide si hay información suficiente."""
+        for f in frags:
+            f["cobertura"] = self.repo.soporte(pregunta, f["titulo"] + " " + f["fragmento"])[0]
+        return sorted(frags, key=lambda f: -(0.6 * f["cobertura"] + 0.4 * f["puntaje"]))
 
     def _extractiva(self, pregunta, hechos, frags) -> str:
         partes = []
